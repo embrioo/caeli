@@ -22,7 +22,7 @@
 						<p><?php echo $current_lang['clients-texts-box1_p2'] ?></p>
 					</div>
 					<div class="rating-box">
-						<img alt="<?php echo $current_lang['clients-'] ?>" src="./images/Optimized-stars.jpg">
+						<img alt="<?php echo $current_lang['clients-alt_'] ?>" src="./images/Optimized-stars.jpg">
 						<p<?php echo $current_lang['clients-rating-box'] ?>></p>
 					</div>
 					<div class="row border-bot">

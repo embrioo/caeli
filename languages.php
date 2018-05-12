@@ -115,6 +115,7 @@ $lang['en']['clients-texts-box2_p2'] = "One filter is installed to completely cl
 $lang['en']['clients-texts-box3_h4'] = "SofLab, Bulgaria &#9475; Our Partner in R&amp;D Labs distribution channels";
 $lang['en']['clients-texts-box3_p1'] = "SofLab Ltd. is a leading company specialized in the field of laboratory equipment &ndash; supply of laboratory consumables, equipment and furniture, professional consultations and implementation.";
 $lang['en']['clients-texts-box3_p2'] = "Soflab has implemented projects for complete design and furnishing of physical, chemical, and microbiological laboratories for companies like Megle, Tomil Herb Ltd., Milkyex, Nova Trade, The Coca-Cola company, Prista Oil, Limex Ltd, Phytopharma, Faculty of Chemistry, Telish Winery, Carlsberg Bulgaria, Actavis, Holcim, Amylum Bulgaria, Verila Lubricants, Solvex &ndash; Cosmetic Products, and others.";
+$lang['en']['clients-alt_'] = "";
 
 $lang['en']['contact-page-title'] = "Contact us:";
 $lang['en']['contact-lbl_all_team'] = "Meet the whole team";
