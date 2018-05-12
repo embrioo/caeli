@@ -596,6 +596,7 @@ main {
 }
 .specifications h3 {
 	display: inline-block;
+	font-size: 28px;
 }
 .specifications .nav-tabs {
 	float: right;
