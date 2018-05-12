@@ -15,8 +15,10 @@
 				<div class="col-lg-10 col-lg-offset-1">
 					<h1 class="page-title"><?php echo $current_lang['industries-page-title'] ?></h1>
 					<div class="row">
-						<div class="col-sm-8">
-							<h4><?php echo $current_lang['industries-ul1_li1'] ?></h4>
+                        <div class="col-sm-11 col-sm-offset-1">
+                            <h4><?php echo $current_lang['industries-ul1_lbl'] ?></h4>
+                        </div>
+						<div class="col-sm-7 col-sm-offset-1">
 							<ul class="list_dash">
 								<li><p><?php echo $current_lang['industries-ul1_li1'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul1_li2'] ?></p></li>
@@ -33,8 +35,10 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-8">
-							<h4><?php echo $current_lang['industries-ul2_li1'] ?></h4>
+                        <div class="col-sm-11 col-sm-offset-1">
+                            <h4><?php echo $current_lang['industries-ul2_lbl'] ?></h4>
+                        </div>
+						<div class="col-sm-7 col-sm-offset-1">
 							<ul class="list_dash">
 								<li><p><?php echo $current_lang['industries-ul2_li1'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul2_li2'] ?></p></li>
@@ -55,8 +59,10 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-8">
-							<h4><?php echo $current_lang['industries-ul3_li1'] ?></h4>
+                        <div class="col-sm-11 col-sm-offset-1">
+                            <h4><?php echo $current_lang['industries-ul3_lbl'] ?></h4>
+                        </div>
+						<div class="col-sm-7 col-sm-offset-1">
 							<ul class="list_dash">
 								<li><p><?php echo $current_lang['industries-ul3_li1'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul3_li2'] ?></p></li>
@@ -77,8 +83,10 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-8">
-							<h4><?php echo $current_lang['industries-ul4_li1'] ?></h4>
+                        <div class="col-sm-11 col-sm-offset-1">
+                            <h4><?php echo $current_lang['industries-ul4_lbl'] ?></h4>
+                        </div>
+						<div class="col-sm-7 col-sm-offset-1">
 							<ul class="list_dash">
 								<li><p><?php echo $current_lang['industries-ul4_li1'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li2'] ?></p></li>
