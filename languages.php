@@ -370,5 +370,5 @@ $lang['en']['footer-link-text-6'] = "Working principle";
 $lang['en']['footer-link-text-7'] = "Vs scrubbers";
 $lang['en']['footer-link-text-8'] = "Clients & Partners";
 $lang['en']['footer-link-text-9'] = "Contact us";
-$lang['en']['footer-copyright-text'] = "&copy; 2018 by Caeli-Engineering LLC";
+$lang['en']['footer-copyright-text'] = "&copy; 2018 All rights reserved. Caeli-Engineering LLC";
 ?>

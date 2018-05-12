@@ -49,11 +49,12 @@ header {
 }
 header .logo-box {
 	float: left;
-    margin-left: -15px;
+/*    margin-left: -15px;*/
 }
 header .logo-box a {
 	float: left;
-	margin-right: 35px;
+/*	margin-right: 35px;*/
+    margin-left: -15px;
 }
 header .logo-box .text-box {
 	float: left;
