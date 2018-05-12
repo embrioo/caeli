@@ -575,16 +575,17 @@ main {
 	margin-bottom: 80px;
 }
 .application h5 {
+    margin-top: 0;
 	font-size: 32px;
 	font-family: LogoTextFont;
 	font-weight: 600;
     font-style: italic;
 	letter-spacing: 1px;
 	text-align: center;
-/*	margin-bottom: 25px;*/
 }
 .application .img-box {
 	text-align: center;
+    margin-bottom: 80px;
 }
 .application .img-box img {
 	width: 141px;
