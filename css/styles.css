@@ -1236,6 +1236,7 @@ footer h4 {
 		padding-left: 0;
 	}
 	.specifications h3 {
+		display: block;
 		padding: 0 15px;
 		margin-bottom: 15px;
 	}	
