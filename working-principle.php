@@ -15,7 +15,7 @@
 				<div class="col-lg-10 col-lg-offset-1">
 					<h3><?php echo $current_lang['principle-heading-text'] ?></h3>
 					<div class="row">
-						<div class="col-sm-4">
+						<div class="col-sm-4 float-xs-left">
 							<div class="type-view">
 								<h4>
 								<span><?php echo $current_lang['principle-type1-span-text-1'] ?></span>
@@ -28,7 +28,7 @@
 						<div class="col-sm-4">
 							<p><?php echo $current_lang['principle-paragraph-text-1'] ?></p>
 						</div>
-						<div class="col-sm-4">
+						<div class="col-xs-12 col-sm-4">
 							<h4 class="text-uppercase">
 								<span><?php echo $current_lang['principle-particle-span-text-1'] ?></span>
 								<span><?php echo $current_lang['principle-particle-span-text-2'] ?></span>
@@ -41,7 +41,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-4">
+						<div class="col-sm-4 float-xs-left">
 							<div class="type-view middle-one">
 								<h4>
 									<span><?php echo $current_lang['principle-type2-span-text-1'] ?></span>
@@ -56,7 +56,7 @@
 							<p><?php echo $current_lang['principle-paragraph-text-3'] ?></p>
 							<p><?php echo $current_lang['principle-paragraph-text-4'] ?></p>
 						</div>
-						<div class="col-sm-4">
+						<div class="col-xs-12 col-sm-4">
 							<h4 class="text-uppercase">
 								<span><?php echo $current_lang['principle-bacteria-span-text-1'] ?></span>
 								<span><?php echo $current_lang['principle-bacteria-span-text-2'] ?></span>
@@ -69,7 +69,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-4">
+						<div class="col-sm-4 float-xs-left">
 							<div class="type-view">
 								<h4>
 									<span><?php echo $current_lang['principle-type3-span-text-1'] ?></span>
@@ -84,7 +84,7 @@
 							<p><?php echo $current_lang['principle-paragraph-text-6'] ?></p>
 							<p><?php echo $current_lang['principle-paragraph-text-7'] ?></p>
 						</div>
-						<div class="col-sm-4">
+						<div class="col-xs-12 col-sm-4">
 							<h4 class="text-uppercase"><?php echo $current_lang['principle-moisture-text'] ?></h4>
 						</div>
 					</div>
