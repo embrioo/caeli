@@ -622,14 +622,14 @@ main {
 .specifications .nav-tabs a:hover {
 	background-color: #01B1AF;
 }
-.specifications .col-md-2 {	
+.specifications .col-sm-2 {	
 	text-align: center;
 }
-.specifications .col-md-2 img {
+.specifications .col-sm-2 img {
 	width: 110px;
 	max-width: 100%;		
 }
-.specifications .col-md-10 {
+.specifications .col-sm-10 {
 	border-left: 1px solid #636769;
 }
 .specifications .tech-info-box {
@@ -1219,7 +1219,38 @@ footer h4 {
 	}	
 	.principle-page footer {
 		margin-top: 30px;
+	}
+	.specifications h2 {
+		font-size: 30px;
+	}
+	.specifications .margin-bottom {
+		font-size: 15px;
+	}
+	.specifications .tech-info-box {
+		padding-left: 0;
+	}
+	.specifications h3 {
+		padding: 0 15px;
+		margin-bottom: 15px;
 	}	
+	.specifications .nav-tabs {
+		float: none;
+		display: inline-block;
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	.specifications .mobile-padding {
+		padding-top: 30px;
+	}
+	.specifications .col-sm-2 img {
+		width: 70px;
+		float: left;
+		margin: 0 30px 0 35px;
+	}
+	.specifications p span {
+		font-size: 15px;
+		padding-right: 0;
+	}
 	footer {
 		text-align: center;
 	}
@@ -1415,7 +1446,55 @@ footer h4 {
 	}
 	.principle-page footer {
 		margin-top: 0;
+	}
+	.specifications h2 {
+		font-size: 26px;
+		margin-bottom: 15px;
+		margin-top: 40px;
 	}	
+	.specifications h3 {
+		font-size: 26px;
+	}
+	.specifications .nav-tabs li {
+		margin-left: 5px;
+	}
+	.specification-page .banner .box h4 {
+		font-size: 17px;
+		padding: 4px 14px; 
+	}
+	.specifications .nav-tabs a {
+		width: 94px;
+		font-size: 15px;
+		padding: 8px 5px;
+		margin: 0;
+	}
+	.specifications .margin-bottom {
+		font-size: 13px;
+		margin-bottom: 36px;
+	}
+	.specifications .col-sm-2 img {
+		width: 60px;
+		margin: 0 20px 20px;
+	}
+	.specifications .orange-colored {
+		margin-bottom: 15px;
+		font-size: 14px;
+	}
+	.specifications .col-xs-5 {
+		width: 50%;
+	}
+	.specifications .col-xs-offset-1 {
+		margin-left: 0;
+	}
+	.specifications p span {
+		font-size: 14px;
+	}
+	.specifications .text-shrink {
+		letter-spacing: -1px;
+	}
+	.specifications .spec-value {
+		padding-left: 0;
+	}
 	footer {
 		margin-top: 50px;
 	}
