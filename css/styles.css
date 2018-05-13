@@ -49,11 +49,12 @@ header {
 }
 header .logo-box {
 	float: left;
-    margin-left: -15px;
+/*    margin-left: -15px;*/
 }
 header .logo-box a {
 	float: left;
-	margin-right: 35px;
+/*	margin-right: 35px;*/
+    margin-left: -15px;
 }
 header .logo-box .text-box {
 	float: left;
@@ -260,9 +261,12 @@ main {
 }
 .innovative {
 	padding: 20px 0;
-	background: url(../images/background-baby.png) no-repeat;
+    background: url(../images/waves-circles.jpg) no-repeat;
+/*    background: url(../images/water-patterns-whirlpool.jpg) no-repeat;*/
+/*	background: url(../images/background-baby.png) no-repeat;*/
 	background-position: 0 130px;
-	background-size: contain;	
+    background-size: cover;
+/*	background-size: contain;*/
 }
 .innovative .container {
 	position: relative;
@@ -281,8 +285,10 @@ main {
 }
 .innovative ul li a {
 	text-decoration: none;
-	color: #1D5377;
-	border: 3px solid #1D5377;
+    color: #fff;
+    border: 3px solid #fff;
+/*	color: #1D5377;*/
+/*	border: 3px solid #1D5377;*/
 	font-size: 22px;
 	line-height: 22px;
 	width: 282px;
