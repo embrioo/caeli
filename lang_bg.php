@@ -185,6 +185,7 @@ $lang['bg']['specification-page-end-title'] = "Want to check other options?";
 $lang['bg']['specification-btn_f800'] = "Caeli 800";
 $lang['bg']['specification-btn_f1100'] = "Caeli 1100";
 $lang['bg']['specification-btn_f1500'] = "Caeli 1500";
+$lang['bg']['specification-btn_f2500'] = "Caeli 2500";
 $lang['bg']['specification-f800_name'] = "Caeli IN / OUT 800";
 $lang['bg']['specification-f800_desc'] = "МАЛКИ ПРОСТРАНСТВА";
 $lang['bg']['specification-f800_subs'] = "TO CLEAN THE INLET OR OUTLET AIR";

@@ -942,6 +942,22 @@ footer h4 {
 	.contact-us footer {
 		margin-top: 0;
 	}
+	.specifications h3 {
+		display: block;
+		margin-bottom: 10px;
+	}
+	.specifications .nav-tabs {
+		float: none;
+		display: inline-block;
+		margin-bottom: 50px;
+	}
+	.specifications .nav-tabs li {
+		margin-left: 0;
+		margin-right: 10px;
+	}	
+	footer {
+		margin-top: 30px;
+	}
 	footer ul.list-unstyled {
 		padding-left: 15px;
 		padding-right: 10px;
@@ -1243,8 +1259,10 @@ footer h4 {
 	.specifications .nav-tabs {
 		float: none;
 		display: inline-block;
-		margin-top: 10px;
-		margin-bottom: 20px;
+		margin: 10px 0 20px 17px;
+	}
+	.nav-tabs>li>a {
+		margin-right: 0;
 	}
 	.specifications .mobile-padding {
 		padding-top: 30px;
@@ -1273,6 +1291,17 @@ footer h4 {
 	footer h4 {
 		font-size: 16px;
 	}		
+}
+@media only screen and (max-width: 600px) {
+	.specifications .nav-tabs {
+		width: 410px;
+	}
+	.specifications .nav-tabs li {
+		margin-bottom: 7px;
+	}
+	.specifications .nav-tabs a {
+		width: 190px;
+	}
 }
 @media only screen and (max-width: 460px) {
 	header {
@@ -1462,15 +1491,15 @@ footer h4 {
 	.specifications h3 {
 		font-size: 26px;
 	}
-	.specifications .nav-tabs li {
-		margin-left: 5px;
-	}
+	.specifications .nav-tabs {
+		width: 270px;
+	}	
 	.specification-page .banner .box h4 {
 		font-size: 17px;
 		padding: 4px 14px; 
 	}
 	.specifications .nav-tabs a {
-		width: 94px;
+		width: 125px;
 		font-size: 15px;
 		padding: 8px 5px;
 		margin: 0;
