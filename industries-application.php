@@ -104,7 +104,7 @@
 						<div class="col-sm-4">
 							<div class="img-box">
 								<h5><?php echo $current_lang['industries-lbl_best'] ?></h5>
-                                <h4><a href="/tech-specification.php#spec3" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1500'] ?></a></h4>
+                                <h4><a href="/tech-specification.php#spec3" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_2500'] ?></a></h4>
 								<a href="/tech-specification.php#spec3"><img alt="" src="./images/Optimized-filter.png"></a>		
 							</div>
 						</div>
