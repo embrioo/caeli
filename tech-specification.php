@@ -25,9 +25,9 @@
 					<div class="row">
 						<h3 class="page-title"><?php echo $current_lang['specification-page-title'] ?></h3>
 						<ul class="nav nav-tabs nav-default">
-							<li class="active"><a id="tab-spec1" data-toggle="tab" href="#spec1" onclick="changeText('spec1')"><?php echo $current_lang['specification-btn_f800'] ?></a></li>
-							<li><a id="tab-spec2" data-toggle="tab" href="#spec2" onclick="changeText('spec2')"><?php echo $current_lang['specification-btn_f1100'] ?></a></li>
-							<li><a id="tab-spec3" data-toggle="tab" href="#spec3" onclick="changeText('spec3')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
+							<li class="active"><a class="tab-spec1" data-toggle="tab" href="#spec1" onclick="changeText('spec1')"><?php echo $current_lang['specification-btn_f800'] ?></a></li>
+							<li><a class="tab-spec2" data-toggle="tab" href="#spec2" onclick="changeText('spec2')"><?php echo $current_lang['specification-btn_f1100'] ?></a></li>
+							<li><a class="tab-spec3" data-toggle="tab" href="#spec3" onclick="changeText('spec3')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
 						</ul>
 						<div class="tab-content">
 							<div id="spec1" class="tab-pane active">
@@ -192,9 +192,9 @@
 						</div>
                         <h3 class="page-title"><?php echo $current_lang['specification-page-end-title'] ?></h3>
                         <ul class="nav nav-tabs nav-default">
-                            <li class="active"><a id="tab-spec1" data-toggle="tab" href="#spec1" onclick="changeText('spec1')"><?php echo $current_lang['specification-btn_f800'] ?></a></li>
-                            <li><a id="tab-spec2" data-toggle="tab" href="#spec2" onclick="changeText('spec2')"><?php echo $current_lang['specification-btn_f1100'] ?></a></li>
-                            <li><a id="tab-spec3" data-toggle="tab" href="#spec3" onclick="changeText('spec3')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
+                            <li class="active"><a class="tab-spec1" data-toggle="tab" href="#spec1" onclick="changeText('spec1')"><?php echo $current_lang['specification-btn_f800'] ?></a></li>
+                            <li><a class="tab-spec2" data-toggle="tab" href="#spec2" onclick="changeText('spec2')"><?php echo $current_lang['specification-btn_f1100'] ?></a></li>
+                            <li><a class="tab-spec3" data-toggle="tab" href="#spec3" onclick="changeText('spec3')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
                         </ul>
 					</div>
 				</div>

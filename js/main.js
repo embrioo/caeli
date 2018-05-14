@@ -6,35 +6,19 @@
 
 $(function () {
 
-    
-var tech = getUrlParameter('caeli');
-    
-    
-/* tech-specification */
+    var tech = getUrlParameter('caeli');
     var hash = window.location.hash.substr(1);
-    $('#tab-'+tech).click();
-/*    $('#tab-'+hash).on('click',function(){
-console.log('onclick '+hash);
-        $("html, body").animate({ scrollTop: 0 }, "slow");
-        window.scrollTo(0,0);
-    });
-
-    $(window).on('hashchange',function(){
-        hash = location.hash.slice(1);
-        $('#tab-'+hash).click();
-console.log(hash);
-    });*/
-
-    
-//    window.scrollTo(0,0);
-/* /tech-specification */
+    $('.tab-'+tech).click();
 
 })
 
 function changeText(el) {
-console.log(el);
+    $('.tab-spec1').parent().removeClass('active');
+    $('.tab-spec2').parent().removeClass('active');
+    $('.tab-spec3').parent().removeClass('active');
+
+    $('.tab-'+el).parent().addClass('active');
     $('.banner .box h4').html($('#'+el+' .sub-label').html());
-//    jQuery.param.querystring(window.location.href, 'valueA=321&valueB=123');
 }
 
 var getUrlParameter = function getUrlParameter(sParam) {
