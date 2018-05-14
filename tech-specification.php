@@ -28,6 +28,7 @@
 							<li class="active"><a class="tab-spec1" data-toggle="tab" href="#spec1" onclick="changeText('spec1')"><?php echo $current_lang['specification-btn_f800'] ?></a></li>
 							<li><a class="tab-spec2" data-toggle="tab" href="#spec2" onclick="changeText('spec2')"><?php echo $current_lang['specification-btn_f1100'] ?></a></li>
 							<li><a class="tab-spec3" data-toggle="tab" href="#spec3" onclick="changeText('spec3')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
+                            <li><a class="tab-spec4" data-toggle="tab" href="#spec4" onclick="changeText('spec4')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
 						</ul>
 						<div class="tab-content">
 							<div id="spec1" class="tab-pane active">
@@ -184,6 +185,57 @@
 									</div>
 								</div>
 							</div>
+                            <div id="spec4" class="tab-pane">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <img alt="" src="./images/type-3.png">
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="tech-info-box">
+                                                <h2><?php echo $current_lang['specification-f1500_name'] ?></h2>
+                                                <p class="sub-label text-uppercase orange-colored"><?php echo $current_lang['specification-f1500_desc'] ?></p>
+                                                <p class="margin-bottom"><?php echo $current_lang['specification-f1500_subs'] ?></p>
+                                                <div class="row">
+                                                    <div class="col-sm-12 mobile-padding">
+                                                        <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop1_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop1_val'] ?></span></p>
+                                                        <p class="row row-spec">
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop2_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop2_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop3_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop3_val'] ?></span>
+                                                        </p>
+                                                        <p class="row row-spec">
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4 dark-color text-shrink"><?php echo $current_lang['specification-f1500_prop4_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8 dark-color"><?php echo $current_lang['specification-f1500_prop4_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop5_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop5_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop6_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop6_val'] ?></span>
+                                                        </p>
+                                                        <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4 dark-color"><?php echo $current_lang['specification-f1500_prop7_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8 dark-color"><?php echo $current_lang['specification-f1500_prop7_val'] ?></span></p>
+                                                        <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop8_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8 dark-color"><?php echo $current_lang['specification-f1500_prop8_val'] ?></span></p>
+                                                        <p class="row row-spec">
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop9_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop9_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop10_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop10_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop11_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop11_val'] ?></span>
+                                                        </p>
+                                                        <p class="row row-spec">
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop12_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop12_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop13_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop13_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop14_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop14_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop15_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop15_val'] ?></span>
+                                                        </p>
+                                                        <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop16_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop16_val'] ?></span></p>
+                                                        <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop17_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop17_val'] ?></span></p>
+                                                        <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop18_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop18_val'] ?></span></p>
+                                                        <p class="row row-spec">
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop19_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop19_val'] ?></span>
+                                                            <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop20_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop20_val'] ?></span>
+                                                        </p>
+                                                        <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f1500_prop21_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f1500_prop21_val'] ?></span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 						</div>
 						<div class="ordering-box">
 							<a class="order-now-button" href="#"><?php echo $current_lang['order-now-link-text-1'] ?></a>
@@ -195,6 +247,7 @@
                             <li class="active"><a class="tab-spec1" data-toggle="tab" href="#spec1" onclick="changeText('spec1')"><?php echo $current_lang['specification-btn_f800'] ?></a></li>
                             <li><a class="tab-spec2" data-toggle="tab" href="#spec2" onclick="changeText('spec2')"><?php echo $current_lang['specification-btn_f1100'] ?></a></li>
                             <li><a class="tab-spec3" data-toggle="tab" href="#spec3" onclick="changeText('spec3')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
+                            <li><a class="tab-spec4" data-toggle="tab" href="#spec4" onclick="changeText('spec4')"><?php echo $current_lang['specification-btn_f1500'] ?></a></li>
                         </ul>
 					</div>
 				</div>
