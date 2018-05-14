@@ -110,7 +110,7 @@
 					<h2><?php echo $current_lang['order-now-heading'] ?></h2>
 					<a class="order-now-button" href="#"><?php echo $current_lang['order-now-link-text-1'] ?></a>
 					<a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
-           <p><?php echo $current_lang['order-now-text-5'] ?></p>
+          <p class="final-text"><?php echo $current_lang['order-now-text-5'] ?><span><?php echo $current_lang['order-now-text-6'] ?></span></p>
 				</div>
 			</section>
 		</main>
