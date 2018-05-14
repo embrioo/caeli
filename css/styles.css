@@ -1289,6 +1289,17 @@ footer h4 {
 	.specifications .final-text span {
 		font-size: 16px;
 	}
+	.application .col-sm-11 h4 {
+		padding-left: 5px;
+	}
+	.application ul {
+		float: left;
+	}
+	.application .img-box {
+		float: right;
+		margin-right: 25px;
+		margin-bottom: 50px;
+	}
 	footer {
 		text-align: center;
 	}
@@ -1314,6 +1325,29 @@ footer h4 {
 	}
 	.specifications .nav-tabs a {
 		width: 190px;
+	}
+	.application h4 {
+		font-size: 20px;
+	}
+	.application .img-box {
+		float: left;
+		margin: 0 10px 35px;
+	}
+	.application ul {
+		margin-bottom: 20px;
+	}
+	.application .img-box img {
+		display: none;
+	}
+	.application .col-sm-7 {
+		overflow: hidden;
+	}
+	.industries-page .page-title {
+		font-size: 32px;
+		margin-bottom: 40px;
+	}
+	.industries-page .banner {
+		margin-bottom: 25px;
 	}
 }
 @media only screen and (max-width: 460px) {
@@ -1551,6 +1585,12 @@ footer h4 {
 	.specifications .spec-value {
 		padding-left: 0;
 	}
+	.application p {
+		font-size: 15px;
+	}
+	.industries-page footer {
+		margin-top: 0;
+	}	
 	footer {
 		margin-top: 50px;
 	}
