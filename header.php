@@ -8,7 +8,7 @@
                     <div class="col-sm-1">
                         <div class="logo-box"><a href="./index.php" class="logo"><img alt="" src="./images/logo.png"></a></div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="logo-box">
                             <div class="text-box">
                                 <h3><?php echo $current_lang['logo-text'] ?></h3>
@@ -16,7 +16,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-7">
+                    <div class="col-sm-8">
                         <ul class="contact-us list-unstyled list-inline">
                             <li><a href="https://www.facebook.com/caeli.engineering/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
