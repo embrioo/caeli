@@ -87,7 +87,7 @@
                             <h4><?php echo $current_lang['industries-ul4_lbl'] ?></h4>
                         </div>
 						<div class="col-sm-7 col-sm-offset-1">
-							<ul class="list_dash">
+							<ul class="list_dash" style="margin-bottom: 50px;">
 								<li><p><?php echo $current_lang['industries-ul4_li1'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li2'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li3'] ?></p></li>
