@@ -62,7 +62,7 @@
 								<span><?php echo $current_lang['principle-bacteria-span-text-1'] ?></span>
 								<span><?php echo $current_lang['principle-bacteria-span-text-2'] ?></span>
 							</h4>
-							<ul class="list-inline bacterias">
+							<ul class="list-inline bacterias" style="margin-top: 13px;">
 								<li><img alt="" src="./images/chemicals.png"></li>
 								<li><img alt="" src="./images/viruses.png"></li>
 								<li><img alt="" src="./images/bacterias.png"></li>
