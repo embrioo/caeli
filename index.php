@@ -29,7 +29,7 @@
 											<?php echo $current_lang['advantage-heading-1'] ?><br/>
 											<?php echo $current_lang['advantage-heading-2'] ?>
 										</h4>
-                    <hr style="height: 1px; width: 90%; margin: 30px auto; background: #636769;" />
+                                        <hr style="height: 1px; width: 90%; margin: 30px auto; background: #636769;" />
 									</div>
 									<p><?php echo $current_lang['advantage-p-text-1'] ?></p>
 									<p>
@@ -45,7 +45,7 @@
 											<?php echo $current_lang['advantage-heading-3'] ?><br/>
 											<?php echo $current_lang['advantage-heading-4'] ?>
 										</h4>
-                    <hr style="height: 1px; width: 90%; margin: 30px auto; background: #636769;" />
+                                        <hr style="height: 1px; width: 90%; margin: 30px auto; background: #636769;" />
 									</div>
 									<p><?php echo $current_lang['advantage-p-text-2'] ?></p>
 									<p class="special">
@@ -60,7 +60,7 @@
 											<?php echo $current_lang['advantage-heading-5'] ?><br/>
 											<?php echo $current_lang['advantage-heading-6'] ?>
 										</h4>
-                    <hr style="height: 1px; width: 90%; margin: 30px auto; background: #636769;" />
+                                        <hr style="height: 1px; width: 90%; margin: 30px auto; background: #636769;" />
 									</div>
 									<p><?php echo $current_lang['advantage-p-text-3'] ?></p>
 									<hr class="mobile-line" style="height: 1px; width: 90%; margin: 30px auto; background: #636769;" />
@@ -110,7 +110,7 @@
 					<h2><?php echo $current_lang['order-now-heading'] ?></h2>
 					<a class="order-now-button" href="#"><?php echo $current_lang['order-now-link-text-1'] ?></a>
 					<a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
-          <p class="final-text"><?php echo $current_lang['order-now-text-5'] ?><span><?php echo $current_lang['order-now-text-6'] ?></span></p>
+                    <p class="final-text"><?php echo $current_lang['order-now-text-5'] ?><span><?php echo $current_lang['order-now-text-6'] ?></span></p>
 				</div>
 			</section>
 		</main>
