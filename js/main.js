@@ -16,10 +16,12 @@ function changeText(el) {
     $('.tab-spec1').parent().removeClass('active');
     $('.tab-spec2').parent().removeClass('active');
     $('.tab-spec3').parent().removeClass('active');
+    $('.tab-spec4').parent().removeClass('active');
 
     $('#spec1').removeClass('active');
     $('#spec2').removeClass('active');
     $('#spec3').removeClass('active');
+    $('#spec4').removeClass('active');
 
     $('.tab-'+el).parent().addClass('active');
     $('.banner .box h4').html($('#'+el+' .sub-label').html());

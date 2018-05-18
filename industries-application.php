@@ -29,8 +29,8 @@
 						<div class="col-sm-4">							
 							<div class="img-box">
                                 <h5><?php echo $current_lang['industries-lbl_best'] ?></h5>
-								<h4><a href="/tech-specification.php#spec1" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_800'] ?></a></h4>
-								<a href="/tech-specification.php#spec1"><img alt="" src="./images/Optimized-filter.png"></a>						
+								<h4><a href="/tech-specification.php?caeli=spec1" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_800'] ?></a></h4>
+								<a href="/tech-specification.php?caeli=spec1"><img alt="" src="./images/Optimized-filter.png"></a>						
 							</div>
 						</div>
 					</div>
@@ -53,8 +53,8 @@
 						<div class="col-sm-4">
 							<div class="img-box">
 								<h5><?php echo $current_lang['industries-lbl_best'] ?></h5>
-                                <h4><a href="/tech-specification.php#spec2" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1100'] ?></a></h4>
-								<a href="/tech-specification.php#spec2"><img alt="" src="./images/Optimized-filter.png"></a>		
+                                <h4><a href="/tech-specification.php?caeli=spec2" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1100'] ?></a></h4>
+								<a href="/tech-specification.php?caeli=spec2"><img alt="" src="./images/Optimized-filter.png"></a>		
 							</div>
 						</div>
 					</div>
@@ -77,8 +77,8 @@
 						<div class="col-sm-4">
 							<div class="img-box">
 								<h5><?php echo $current_lang['industries-lbl_best'] ?></h5>
-                                <h4><a href="/tech-specification.php#spec3" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1500'] ?></a></h4>
-								<a href="/tech-specification.php#spec3"><img alt="" src="./images/Optimized-filter.png"></a>		
+                                <h4><a href="/tech-specification.php?caeli=spec3" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1500'] ?></a></h4>
+								<a href="/tech-specification.php?caeli=spec3"><img alt="" src="./images/Optimized-filter.png"></a>		
 							</div>
 						</div>
 					</div>
@@ -104,8 +104,8 @@
 						<div class="col-sm-4">
 							<div class="img-box">
 								<h5><?php echo $current_lang['industries-lbl_best'] ?></h5>
-                                <h4><a href="/tech-specification.php#spec3" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1500'] ?></a></h4>
-								<a href="/tech-specification.php#spec3"><img alt="" src="./images/Optimized-filter.png"></a>		
+                                <h4><a href="/tech-specification.php?caeli=spec3" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1500'] ?></a></h4>
+								<a href="/tech-specification.php?caeli=spec3"><img alt="" src="./images/Optimized-filter.png"></a>		
 							</div>
 						</div>
 					</div>
