@@ -806,6 +806,7 @@ footer .list-inline .fa-linkedin-in {
 }
 footer h4 {
 	text-align: center;
+	margin-top: 25px;
 }
 @media only screen and (max-width: 1200px) {
 	header .nav > li {
@@ -1170,6 +1171,9 @@ footer h4 {
 	.our-clients .rating-box img {
 		margin-bottom: 5px;
 	}
+	.our-clients .mobile-hide {
+		display: none;
+	}
 	#team .page-title {
 		margin-top: 10px;
 	}
@@ -1463,9 +1467,6 @@ footer h4 {
 	.our-clients .texts-box p {
 		font-size: 15px;
 		margin-bottom: 15px;
-	}
-	.our-clients .mobile-hide {
-		display: none;
 	}
 	#team .page-title {
 		margin-bottom: 40px;
