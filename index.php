@@ -76,25 +76,13 @@
 						<div class="col-lg-10 col-lg-offset-1">
 							<h2><?php echo $current_lang['innovative-heading'] ?></h2>
 							<ul class="list-unstyled">
-								<li>
-									<a href="/working-principle.php"><?php echo $current_lang['innovative-text-1'] ?></a>
-								</li>
-								<li>
-									<a href="#"><?php echo $current_lang['innovative-text-2'] ?></a>
-								</li>
-								<li>
-									<a class="bigger-margin-bottom" href="/tech-description.php"><?php echo $current_lang['innovative-text-3'] ?></a>
-								</li>
-								<li>
-									<a href="#"><?php echo $current_lang['innovative-text-4'] ?></a>
-								</li>
-								<li>
-									<a href="#"><?php echo $current_lang['innovative-text-5'] ?></a>
-								</li>
+								<li><a href="/working-principle.php"><?php echo $current_lang['innovative-text-1'] ?></a></li>
+								<li><a href="/tech-specification.php?caeli=spec2"><?php echo $current_lang['innovative-text-2'] ?></a></li>
+								<li><a class="bigger-margin-bottom" href="/tech-description.php"><?php echo $current_lang['innovative-text-3'] ?></a></li>
+								<li><a href="#"><?php echo $current_lang['innovative-text-4'] ?></a></li>
+								<li><a href="#"><?php echo $current_lang['innovative-text-5'] ?></a></li>
 							</ul>
-							<div class="round-image-box">
-								<img class="avatar" src="./images/filter.png">
-							</div>
+							<div class="round-image-box"><img class="avatar" src="./images/filter.png"></div>
 						</div>
 					</div>					
 				</div>

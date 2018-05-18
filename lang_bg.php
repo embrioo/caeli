@@ -356,17 +356,19 @@ $lang['bg']['scrubbers-comp6_scr_desc1'] = "Невъзможно";
 $lang['bg']['scrubbers-comp6_scr_desc2'] = "Изисква предварително дефиниран дизайн и инфраструктура, както и голямо свободно пространство. Complexity in re-arranging the space to fit the whole new scrubber.";
 $lang['bg']['scrubbers-comp6_flt_desc1'] = "Възможно";
 $lang['bg']['scrubbers-comp6_flt_desc2'] = "С леки (бързи, лесни и евтини) корекции";
-$lang['bg']['scrubbers-comp7_title'] = "7. Поддръжка &amp; <br style='line-height: 1.8;' />Консумативи";
+
+$lang['bg']['scrubbers-comp7_title'] = "7. Поддръжка";
 $lang['bg']['scrubbers-comp7_scr_desc1'] = "Консумираните време и пари, комплексното почиствани, високи разходи за обучение на персонала, ежедневен оперативен мониторинг, и за поддръжка на всички агрегати (като скруберите са комплекси системи, които изискват постоянна поддръжка).";
-$lang['bg']['scrubbers-comp7_scr_desc2'] = "Многобройни водни филтри, дюзи (средно по 100+ броя на инсталация), което изисква честа промяна на елементите.";
-$lang['bg']['scrubbers-comp7_flt_desc1'] = "Лесно и евтино";
+$lang['bg']['scrubbers-comp7_flt_desc1'] = "Лесно и евтино.";
 $lang['bg']['scrubbers-comp7_flt_desc2'] = "Самопочистващ: напълно автоматичен или <br />полу-автоматичен (зависеш от фабричния тип и спецификата на замърсителите).";
-$lang['bg']['scrubbers-comp7_flt_desc3'] = "Няма сменяеми и/или взаимозаменяеми части";
-$lang['bg']['scrubbers-comp8_title'] = "8. Влажност";
-$lang['bg']['scrubbers-comp8_scr_desc1'] = "Висока (90-96%)";
-$lang['bg']['scrubbers-comp8_scr_desc2'] = "90-96% от влажността на въздуха (Необходими са допълнителни инвестиции за изсушители)";
-$lang['bg']['scrubbers-comp8_flt_desc1'] = "Нормална (50-70%)";
-$lang['bg']['scrubbers-comp8_flt_desc2'] = "Ниска влажност, защото третия циклон работи като изсушител.";
+$lang['bg']['scrubbers-comp8_title'] = "8. Консумативи";
+$lang['bg']['scrubbers-comp8_scr_desc1'] = "Многобройни водни филтри, дюзи (средно по 100+ броя на инсталация), което изисква честа промяна на елементите.";
+$lang['bg']['scrubbers-comp8_flt_desc1'] = "Няма сменяеми и/или взаимозаменяеми части.";
+$lang['bg']['scrubbers-comp9_title'] = "9. Влажност";
+$lang['bg']['scrubbers-comp9_scr_desc1'] = "Висока (90-96%)";
+$lang['bg']['scrubbers-comp9_scr_desc2'] = "90-96% от влажността на въздуха (Необходими са допълнителни инвестиции за изсушители)";
+$lang['bg']['scrubbers-comp9_flt_desc1'] = "Нормална (50-70%)";
+$lang['bg']['scrubbers-comp9_flt_desc2'] = "Ниска влажност, защото третия циклон работи като изсушител.";
 
 $lang['bg']['footer-link-text-1'] = "Техническа Спецификация - Caeli 800";
 $lang['bg']['footer-link-text-2'] = "Техническа Спецификация - Caeli 1100";
