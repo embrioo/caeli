@@ -58,7 +58,8 @@
                                                 <li><a href="./tech-description.php"><?php echo $current_lang['nav-tech-dropdown-text-11'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec1"><?php echo $current_lang['nav-tech-dropdown-text-6'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec2"><?php echo $current_lang['nav-tech-dropdown-text-7'] ?></a></li>
-                                                <li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['nav-tech-dropdown-text-8'] ?></a></li>                            
+                                                <li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['nav-tech-dropdown-text-8'] ?></a></li>
+                                                <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['nav-tech-dropdown-text-12'] ?></a></li>                            
                                                 <li><a href="./vs-scrubbers.php"><?php echo $current_lang['nav-tech-dropdown-text-10'] ?></a></li>
                                             </ul>
                                         </div>
