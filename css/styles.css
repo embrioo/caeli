@@ -806,7 +806,6 @@ footer .list-inline .fa-linkedin-in {
 }
 footer h4 {
 	text-align: center;
-	margin-top: 25px;
 }
 @media only screen and (max-width: 1200px) {
 	header .nav > li {
@@ -1086,9 +1085,9 @@ footer h4 {
 		margin: 0;
 	}
 	.innovative {
-		padding: 0;
+/*		padding: 0;
 		background-size: cover;
-		background-position: -510px 133px;
+		background-position: -510px 133px;*/
 	}		
 	.innovative h2 {
 		font-size: 40px;
@@ -1163,16 +1162,13 @@ footer h4 {
 	}
 	.our-clients img {
 		width: 500px;
-		margin-bottom: 20px;
+		margin-bottom: 15px;
 	}
 	.our-clients .row.border-bot {
 		padding-bottom: 0;
 	}
 	.our-clients .rating-box img {
 		margin-bottom: 5px;
-	}
-	.our-clients .mobile-hide {
-		display: none;
 	}
 	#team .page-title {
 		margin-top: 10px;
@@ -1467,7 +1463,10 @@ footer h4 {
 	.our-clients .texts-box p {
 		font-size: 15px;
 		margin-bottom: 15px;
-	}	
+	}
+	.our-clients .mobile-hide {
+		display: none;
+	}
 	#team .page-title {
 		margin-bottom: 40px;
 	}
