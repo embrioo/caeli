@@ -26,7 +26,8 @@
 							</div>									
 						</div>
 						<div class="col-sm-4">
-							<p><?php echo $current_lang['principle-paragraph-text-1'] ?></p>
+                            <p><?php echo $current_lang['principle-paragraph-text-1'] ?></p>
+							<p><?php echo $current_lang['principle-paragraph-text-1-1'] ?></p>
 						</div>
 						<div class="col-xs-12 col-sm-4">
 							<h4 class="text-uppercase">
