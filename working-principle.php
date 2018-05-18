@@ -34,7 +34,7 @@
 								<span><?php echo $current_lang['principle-particle-span-text-1'] ?></span>
 								<span><?php echo $current_lang['principle-particle-span-text-2'] ?></span>
 							</h4>
-							<ul class="list-inline">
+							<ul class="list-inline" style="margin-top: 13px;">
 								<li><img alt="" src="./images/particle-1.png"></li>
 								<li><img alt="" src="./images/particle-2.png"></li>
 								<li><img alt="" src="./images/particle-3.png"></li>
@@ -77,7 +77,7 @@
 									<span><?php echo $current_lang['principle-type3-span-text-2'] ?></span>
 									<span><?php echo $current_lang['principle-type3-span-text-3'] ?></span>
 								</h4>
-								<img src="./images/type-3.png" alt="third-type">
+								<img src="./images/type-3.png" alt="third-type" style="margin-top: -10px;">
 							</div>
 						</div>
 						<div class="col-sm-4">
