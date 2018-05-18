@@ -660,6 +660,9 @@ main {
 .specifications p span {
 	display: block;
 }
+.specifications .inner-span {
+	display: inline-block;
+}
 .specifications .dark-color {
 	font-weight: 700;
 	color: #000000;
@@ -669,6 +672,9 @@ main {
 }
 .specifications .ordering-box {
 	text-align: center;
+}
+.specifications .final-text span {
+	display: inline-block;
 }
 .scrubbers .border-row  {
 	border-bottom: 1px solid #b5b5b5;	
@@ -1276,6 +1282,24 @@ footer h4 {
 		font-size: 15px;
 		padding-right: 0;
 	}
+	.specifications .inner-span {
+		display: block;
+		line-height: 1.2;
+	}
+	.specifications .final-text span {
+		font-size: 16px;
+	}
+	.application .col-sm-11 h4 {
+		padding-left: 5px;
+	}
+	.application ul {
+		float: left;
+	}
+	.application .img-box {
+		float: right;
+		margin-right: 25px;
+		margin-bottom: 50px;
+	}
 	footer {
 		text-align: center;
 	}
@@ -1301,6 +1325,29 @@ footer h4 {
 	}
 	.specifications .nav-tabs a {
 		width: 190px;
+	}
+	.application h4 {
+		font-size: 20px;
+	}
+	.application .img-box {
+		float: left;
+		margin: 0 10px 35px;
+	}
+	.application ul {
+		margin-bottom: 20px;
+	}
+	.application .img-box img {
+		display: none;
+	}
+	.application .col-sm-7 {
+		overflow: hidden;
+	}
+	.industries-page .page-title {
+		font-size: 32px;
+		margin-bottom: 40px;
+	}
+	.industries-page .banner {
+		margin-bottom: 25px;
 	}
 }
 @media only screen and (max-width: 460px) {
@@ -1525,12 +1572,25 @@ footer h4 {
 	.specifications p span {
 		font-size: 14px;
 	}
+	.specifications .final-text span {
+		font-size: 16px;
+		display: block;
+	}
+	.final-text span {
+		display: block;
+	}
 	.specifications .text-shrink {
 		letter-spacing: -1px;
 	}
 	.specifications .spec-value {
 		padding-left: 0;
 	}
+	.application p {
+		font-size: 15px;
+	}
+	.industries-page footer {
+		margin-top: 0;
+	}	
 	footer {
 		margin-top: 50px;
 	}
