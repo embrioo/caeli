@@ -17,7 +17,8 @@
 							<ul class="list-unstyled">
 								<li><a href="./industries-application.php"><?php echo $current_lang['footer-link-text-5'] ?></a></li>
 								<li><a href="./tech-description.php"><?php echo $current_lang['footer-link-text-6'] ?></a></li>
-								<li><a href="./working-principle.php"><?php echo $current_lang['footer-link-text-7'] ?></a></li>
+                                <li><a href="./working-principle.php"><?php echo $current_lang['footer-link-text-7'] ?></a></li>
+								<li><a href="./stand-alone.php"><?php echo $current_lang['footer-link-text-13'] ?></a></li>
 								<li><a href="./vs-scrubbers.php"><?php echo $current_lang['footer-link-text-8'] ?></a></li>								
 							</ul>
 						</div>

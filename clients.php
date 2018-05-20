@@ -23,7 +23,7 @@
 					</div>
 					<div class="rating-box">
 						<img alt="<?php echo $current_lang['clients-alt_'] ?>" src="./images/Optimized-stars.jpg">
-						<p<?php echo $current_lang['clients-rating-box'] ?>></p>
+						<p><?php echo $current_lang['clients-rating-box'] ?></p>
 					</div>
 					<div class="row border-bot">
 						<div class="col-sm-4"><img class="mobile-hide" alt="" src="./images/biovet-1.png"></div>

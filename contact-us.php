@@ -153,7 +153,7 @@
                                            <li><p><?php echo $current_lang['contact-member1_reg4'] ?></p></li>
                                        </ul>
                                     </li>
-                                    <li><a href="#">rennie.popcheva@caeli-engineering.com</a></li>
+                                    <li><a href="mailto:rennie.popcheva@caeli-engineering.com">rennie.popcheva@caeli-engineering.com</a></li>
                                     <li><a href="#">+359 899 98 74 05</a></li>
                                     <li><p><?php echo $current_lang['contact-lbl_skype'] ?>:   rennie.embrioo</p></li>
                                 </ul>
@@ -175,7 +175,7 @@
                                            <li><p><?php echo $current_lang['contact-member4_reg4'] ?></p></li>
                                        </ul> 
                                     </li>
-                                    <li><a href="#">atanas.galchev@caeli-engineering.com</a></li>
+                                    <li><a href="mailto:atanas.galchev@caeli-engineering.com">atanas.galchev@caeli-engineering.com</a></li>
                                     <li><a href="#">+359 886 86 86 68</a></li>
                                     <li><p><?php echo $current_lang['contact-lbl_skype'] ?>:   .....</p></li>
                                 </ul>
