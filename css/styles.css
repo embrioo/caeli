@@ -656,10 +656,11 @@ main {
 	margin-bottom: 60px;
 }
 .specifications p {
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 }
 .specifications p span {
 	display: block;
+    line-height: 1.8;
 }
 .specifications .inner-span {
 	display: inline-block;
@@ -1154,10 +1155,13 @@ footer h4 {
 		font-size: 22px;
 		margin-bottom: 25px;
 	}
-	.product-advantages h3 {
+    .product-advantages h3 {
+        font-size: 18px;
+        line-height: 1.2;
+        margin-bottom: 45px;
+    }
+	.product-advantages h3 u{
 		font-size: 18px;
-		line-height: 1.2;
-		margin-bottom: 45px;
 	}
 	.product-advantages .col-sm-4:nth-child(2) .img-title-box {
 		border: none;
@@ -1492,7 +1496,7 @@ footer h4 {
 		font-size: 16px;
 	}
 	.product-advantages h3 u {
-		font-size: 18px;
+		font-size: 16px;
 	}
 	.innovative {
         padding-top: 50px;

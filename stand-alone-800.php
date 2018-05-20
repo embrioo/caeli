@@ -12,7 +12,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="stand-alone-spec specifications">
+	<section class="stand-alone-spec specifications" style="margin-bottom: 50px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-10 col-lg-offset-1">
@@ -22,7 +22,7 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-sm-2">
-										<img alt="" src="./images/type-3.png">
+										<img alt="" src="./images/Water-Cyclone-Air-Filter-Caeli-Stand-alone-Innovation.png">
 									</div>
                   <div class="col-sm-10">
                       <div class="tech-info-box">
@@ -46,7 +46,8 @@
                                   <p class="row row-spec">
                                       <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop9_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop9_val'] ?></span>
                                       <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop10_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop10_val'] ?></span>
-                                      <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop11_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-sa-f800_prop11_val'] ?></span>
+                                      <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-sa-f800_prop11_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-sa-f800_prop11_val'] ?></span>
+                                      <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-sa-f800_prop11_2_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-sa-f800_prop11_2_val'] ?></span>
                                   </p>
                                   <p class="row row-spec">
                                       <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop12_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-sa-f800_prop12_val'] ?></span>
@@ -56,7 +57,7 @@
                                   </p>
                                   <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop16_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop16_val'] ?></span></p>
                                   <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop17_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop17_val'] ?></span></p>
-                                  <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop18_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop18_val'] ?><span class="inner-span"><?php echo $current_lang['specification-f800_prop18_val_inner'] ?></span></span></p>
+                                  <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop18_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop18_val'] ?>&nbsp;<span class="inner-span"><?php echo $current_lang['specification-f800_prop18_val_inner'] ?></span></span></p>
                                   <p class="row row-spec">
                                       <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop19_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop19_val'] ?></span>
                                       <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop20_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop20_val'] ?></span>
