@@ -1,6 +1,6 @@
 <?php 
-$lang['en']['logo-text'] = "Caeli-Engineering LLC";
-$lang['en']['logo-text-2'] = "Innovative Technology";
+$lang['en']['logo-text'] = "Caeli Engineering";
+$lang['en']['logo-text-2'] = "Innovative technology";
 $lang['en']['nav-text-1'] = "Applications";
 $lang['en']['nav-text-2'] = "Tech Description";
 $lang['en']['nav-text-3'] = "Clients";
@@ -410,25 +410,28 @@ $lang['en']['scrubbers-comp3_flt_desc3'] = "+ Chemicals";
 $lang['en']['scrubbers-comp4_title'] = "4. Efficiency";
 $lang['en']['scrubbers-comp4_scr_desc1'] = "Avg. efficiency:";
 $lang['en']['scrubbers-comp4_flt_desc1'] = "Avg. efficiency:";
-$lang['en']['scrubbers-comp5_title'] = "5. Stand-alone";
+$lang['en']['scrubbers-comp5_title'] = "5. Stand-alone option";
 $lang['en']['scrubbers-comp5_scr_desc1'] = "Not possible";
 $lang['en']['scrubbers-comp5_flt_desc1'] = "Possible";
-$lang['en']['scrubbers-comp6_title'] = "6. Retro-fit";
+$lang['en']['scrubbers-comp6_title'] = "6. Retro-fit option";
 $lang['en']['scrubbers-comp6_scr_desc1'] = "Not possible";
 $lang['en']['scrubbers-comp6_scr_desc2'] = "Requires pre-defined design and infrastructure, also large available space. Complexity in re-arranging the space to fit the whole new scrubber.";
 $lang['en']['scrubbers-comp6_flt_desc1'] = "Possible";
 $lang['en']['scrubbers-comp6_flt_desc2'] = "With minor (quick, easy and low cost) adjustments";
-$lang['en']['scrubbers-comp7_title'] = "7. Maintenance &amp; <br style='line-height: 1.8;' />Consumables";
+$lang['en']['scrubbers-comp7_title'] = "7. Maintenance";
 $lang['en']['scrubbers-comp7_scr_desc1'] = "Time and money consuming, complex cleaning, high labor costs for staff training, daily operational monitoring, and for maintenance of all aggregates (as scrubber are complex systems and require constant maintenance).";
-$lang['en']['scrubbers-comp7_scr_desc2'] = "Numerous Water filters, nozzles (avg 100+ pieces per installation) which requires frequent change of elements.";
-$lang['en']['scrubbers-comp7_flt_desc1'] = "Easy and low cost";
+$lang['en']['scrubbers-comp7_flt_desc1'] = "Easy and low cost.";
 $lang['en']['scrubbers-comp7_flt_desc2'] = "Self-cleaning: Fully-automated or <br />semi-automated (depends on the factory type and pollutant specifics).";
-$lang['en']['scrubbers-comp7_flt_desc3'] = "No removable and/or interchangeable parts";
-$lang['en']['scrubbers-comp8_title'] = "8. Outlet humidity";
-$lang['en']['scrubbers-comp8_scr_desc1'] = "High (90-96%)";
-$lang['en']['scrubbers-comp8_scr_desc2'] = "90-96% humidity of the outlet air (Additional investment in dehumidifiers is needed)";
-$lang['en']['scrubbers-comp8_flt_desc1'] = "Normal (50-70%)";
-$lang['en']['scrubbers-comp8_flt_desc2'] = "Low humidity at the outlet since the third cyclone of our filter works like an air drip and a dehumidifier.";
+
+$lang['en']['scrubbers-comp8_title'] = "8. Consumables";
+$lang['en']['scrubbers-comp8_scr_desc1'] = "Numerous Water filters, nozzles (avg 100+ pieces per installation) which requires frequent change of elements.";
+$lang['en']['scrubbers-comp8_flt_desc1'] = "No removable and/or interchangeable parts.";
+
+$lang['en']['scrubbers-comp9_title'] = "9. Outlet humidity";
+$lang['en']['scrubbers-comp9_scr_desc1'] = "High (90-96%)";
+$lang['en']['scrubbers-comp9_scr_desc2'] = "90-96% humidity of the outlet air (Additional investment in dehumidifiers is needed)";
+$lang['en']['scrubbers-comp9_flt_desc1'] = "Normal (50-70%)";
+$lang['en']['scrubbers-comp9_flt_desc2'] = "Low humidity at the outlet since the third cyclone of our filter works like an air drip and a dehumidifier.";
 
 
 $lang['en']['footer-link-text-1'] = "Tech specification - Caeli 800";
@@ -441,5 +444,5 @@ $lang['en']['footer-link-text-7'] = "Working principle";
 $lang['en']['footer-link-text-8'] = "Vs scrubbers";
 $lang['en']['footer-link-text-9'] = "Clients & Partners";
 $lang['en']['footer-link-text-10'] = "Contact us";
-$lang['en']['footer-copyright-text'] = "&copy; 2018 All rights reserved. Caeli-Engineering LLC";
+$lang['en']['footer-copyright-text'] = "&copy; 2018 All rights reserved. Caeli Engineering LLC";
 ?>

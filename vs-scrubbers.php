@@ -71,30 +71,39 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12 col-sm-4"><h4><?php echo $current_lang['scrubbers-comp7_title'] ?></h4></div>
+						<div class="col-xs-12 col-sm-4"><h4 style="line-height: 1.4;"><?php echo $current_lang['scrubbers-comp7_title'] ?></h4></div>
 						<div class="col-xs-6 col-sm-4">
 							<p><?php echo $current_lang['scrubbers-comp7_scr_desc1'] ?></p>
-							<p><?php echo $current_lang['scrubbers-comp7_scr_desc2'] ?></p>
+<!--							<p><?php echo $current_lang['scrubbers-comp7_scr_desc2'] ?></p>-->
 						</div>
 						<div class="col-xs-6 col-sm-4">
 							<p><?php echo $current_lang['scrubbers-comp7_flt_desc1'] ?></p>
 							<p><?php echo $current_lang['scrubbers-comp7_flt_desc2'] ?></p>
-							<p><?php echo $current_lang['scrubbers-comp7_flt_desc3'] ?></p>
+<!--							<p><?php echo $current_lang['scrubbers-comp7_flt_desc3'] ?></p>-->
 						</div>
 					</div>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-4"><h4><?php echo $current_lang['scrubbers-comp8_title'] ?></h4></div>
+                        <div class="col-xs-6 col-sm-4">
+                            <p><?php echo $current_lang['scrubbers-comp8_scr_desc1'] ?></p>
+                        </div>
+                        <div class="col-xs-6 col-sm-4">
+                            <p><?php echo $current_lang['scrubbers-comp8_flt_desc1'] ?></p>
+                        </div>
+                    </div>
 					<div class="row">
-						<div class="col-xs-12 col-sm-4"><h4><?php echo $current_lang['scrubbers-comp8_title'] ?></h4></div>
+						<div class="col-xs-12 col-sm-4"><h4><?php echo $current_lang['scrubbers-comp9_title'] ?></h4></div>
 						<div class="col-xs-6 col-sm-4">
-							<p><?php echo $current_lang['scrubbers-comp8_scr_desc1'] ?></p>
-							<p><?php echo $current_lang['scrubbers-comp8_scr_desc2'] ?></p>
+							<p><?php echo $current_lang['scrubbers-comp9_scr_desc1'] ?></p>
+							<p><?php echo $current_lang['scrubbers-comp9_scr_desc2'] ?></p>
 						</div>
 						<div class="col-xs-6 col-sm-4">
-							<p><?php echo $current_lang['scrubbers-comp8_flt_desc1'] ?></p>
-							<p><?php echo $current_lang['scrubbers-comp8_flt_desc2'] ?></p>
+							<p><?php echo $current_lang['scrubbers-comp9_flt_desc1'] ?></p>
+							<p><?php echo $current_lang['scrubbers-comp9_flt_desc2'] ?></p>
 						</div>
 					</div>
 					<div class="contact-box">
-						<a class="order-now-button" href="#"><?php echo $current_lang['order-now-link-text-1'] ?></a>
+						<a class="order-now-button" href="https://www.facebook.com/pg/caeli.engineering/shop/?ref=page_internal" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
 						<a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
 					</div>
 				</div>
