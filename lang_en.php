@@ -185,7 +185,8 @@ $lang['en']['industries-ul4_li6'] = "Real estates";
 $lang['en']['industries-ul4_li7'] = "Tires and Automotive industries";
 $lang['en']['industries-ul4_li8'] = "and more &hellip;";
 
-$lang['en']['stand-alone-page-title'] = "Working Principle (when Stand-alone)";
+$lang['en']['stand-alone-page-title'] = "Working Principle ";
+$lang['en']['stand-alone-page-title2'] = "(when Stand-alone)";
 $lang['en']['stand-alone-intro-text'] = "The same fundamental technology applies when the filters are of Stand-alone type.";
 $lang['en']['stand-alone-intro-text2'] = "The only difference between Built-in and Stand-alone filters is “the way the air flows into the filter”.";
 

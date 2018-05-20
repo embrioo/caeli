@@ -1038,6 +1038,12 @@ footer h4 {
 	.specifications .nav-tabs li {
 		margin-left: 0;
 		margin-right: 10px;
+	}
+	.stand-alone h4 {
+		line-height: 1.4;
+	}
+	.stand-alone h4 span {
+		line-height: 1.4;
 	}	
 	.stand-alone .first-one {
 		margin-bottom: 125px;
@@ -1531,6 +1537,10 @@ footer h4 {
 	}
 	.industries-page .banner {
 		margin-bottom: 25px;
+	}
+	.stand-alone h1 span {
+		display: block;
+		line-height: 1.1;
 	}
 }
 @media only screen and (max-width: 460px) {
