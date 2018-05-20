@@ -664,6 +664,10 @@ main {
 .specifications .inner-span {
 	display: inline-block;
 }
+.specifications .line-height-span {
+	line-height: 1.1;
+	margin-bottom: 10px;
+}
 .specifications .dark-color {
 	font-weight: 700;
 	color: #000000;
@@ -757,14 +761,23 @@ main {
 .stand-alone {
 	padding-bottom: 50px;
 }
+.stand-alone .details-box {
+	position: relative;
+}
+.stand-alone .show-on-mobile {
+	display: none;
+}
+.stand-alone .first-one {
+	margin-bottom: 200px;
+}
+.stand-alone .third-one {
+	margin-bottom: 284px;
+}
 .stand-alone h4 {
 	margin-bottom: 70px;
 }
 .stand-alone h4 span {
 	display: block;
-}
-.stand-alone p {
-	position: relative;
 }
 .stand-alone .col-sm-2 img {
 	max-width: 100%;
@@ -782,8 +795,8 @@ main {
 .stand-alone .arrow-downleft {
 	position: absolute;
 	width: 66px;
-	bottom: -27px;
-	left: -61px;
+	bottom: -33px;
+	left: -75px;
 }
 .stand-alone .pad-top {
 	padding-top: 40px;
@@ -791,15 +804,15 @@ main {
 }
 .stand-alone .arrow-right {
 	position: absolute;
-	right: -61px;
-	bottom: 32px;
+	right: -81px;
+	bottom: 24px;
 	width: 110px;
 	z-index: 5;
 }
 .stand-alone .arrow-upleft {
 	position: absolute;
-	top: -50px;
-	left: -30px;
+	top: -46px;
+	left: -46px;
 	width: 50px;
 }
 .stand-alone .arrow-curved {
@@ -1023,34 +1036,41 @@ footer h4 {
 		margin-left: 0;
 		margin-right: 10px;
 	}	
+	.stand-alone .first-one {
+		margin-bottom: 125px;
+	}
+	.stand-alone .third-one {
+		margin-bottom: 247px;
+	}
 	.stand-alone .col-sm-2 {
 		padding: 0;
 	}
 	.stand-alone .col-sm-2 .arrow-up {
-		left: 58px;
+		left: 57px;
 	}
 	.stand-alone .col-sm-2 img {
 		margin-bottom: 25px;
 	}
 	.stand-alone .arrow-downleft {
 		width: 57px;
-		bottom: -2px;
-		left: -54px;
+		bottom: -14px;
+		left: -64px;
 	}
 	.stand-alone .pad-top {
 		padding-top: 35px;
 	}
 	.stand-alone .arrow-right {
-		right: -54px;
-		bottom: 96px;
+		right: -66px;
+		bottom: 87px;
 		width: 90px;
 	}
 	.stand-alone .arrow-upleft {
-		top: -47px;
-		left: -19px;
+		top: -44px;
+		left: -32px;
 	}
 	.stand-alone .arrow-curved {
 		width: 143px;
+		top: -69px;
 	}
 	footer {
 		margin-top: 30px;
@@ -1393,6 +1413,66 @@ footer h4 {
 		float: right;
 		margin-right: 25px;
 		margin-bottom: 50px;
+	}
+	.stand-alone .hide-on-mobile {
+		display: none;
+	}
+	.stand-alone .show-on-mobile {
+		display: block;
+		width: 135px;
+		float: left;
+	}
+	.stand-alone h4 {
+		padding-right: 20px;
+	}
+	.stand-alone .col-sm-4 {
+		overflow: hidden;
+	}
+	.stand-alone .first-one {
+		margin-bottom: 105px;
+	}
+	.stand-alone .pad-top {
+		padding: 0;
+	}
+	.stand-alone .arrow-curved {
+		width: 136px;
+		top: -43px;
+	}
+	.stand-alone .left-side {
+		max-width: 278px;
+		float: left;
+		margin-bottom: 40px;
+	}
+	.stand-alone .right-side {
+		max-width: 278px;
+		float: left;
+	}
+	.stand-alone .col-sm-5 p {
+		padding: 0;
+	}
+	.stand-alone .col-sm-2 {
+		display: none;
+	}
+	.stand-alone .arrow-right {
+		right: -61px;
+		bottom: 85px;
+		width: 69px;
+	}
+	.stand-alone .col-sm-2 .arrow-up {
+		display: none;
+	}
+	.stand-alone .arrow-downleft {
+		width: 50px;
+		bottom: 56px;
+		left: -59px;
+	}
+	.stand-alone .third-one {
+		margin-bottom: 177px;
+	}
+	.stand-alone .arrow-upleft {
+		top: -35px;
+		left: -21px;
+		width: 43px;
 	}
 	footer {
 		text-align: center;
