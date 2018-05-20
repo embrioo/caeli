@@ -185,7 +185,8 @@ $lang['en']['industries-ul4_li6'] = "Real estates";
 $lang['en']['industries-ul4_li7'] = "Tires and Automotive industries";
 $lang['en']['industries-ul4_li8'] = "and more &hellip;";
 
-$lang['en']['stand-alone-page-title'] = "Working Principle (when Stand-alone)";
+$lang['en']['stand-alone-page-title'] = "Working Principle ";
+$lang['en']['stand-alone-page-title2'] = "(when Stand-alone)";
 $lang['en']['stand-alone-intro-text'] = "The same fundamental technology applies when the filters are of Stand-alone type.";
 $lang['en']['stand-alone-intro-text2'] = "The only difference between Built-in and Stand-alone filters is “the way the air flows into the filter”.";
 
@@ -371,7 +372,7 @@ $lang['en']['specification-f2500_prop9_lbl'] = "Air flow temperature:";
 $lang['en']['specification-f2500_prop9_val'] = "min. 2 &deg;C &ndash; max. 60 &deg;C";
 $lang['en']['specification-f2500_prop10_lbl'] = "Filter dimensions:";
 $lang['en']['specification-f2500_prop10_val'] = "H/D = 2500/2500 cm";
-$lang['en']['specification-f2500_prop11_lbl'] = "Accesive dimensions:";
+$lang['en']['specification-f2500_prop11_lbl'] = "Accession dimensions:";
 $lang['en']['specification-f2500_prop11_lbl2'] = "(inlet or outlet)";
 $lang['en']['specification-f2500_prop11_val'] = "240 x 240 /square/";
 $lang['en']['specification-f2500_prop11_val2'] = "or Ф = 260 /circle/";

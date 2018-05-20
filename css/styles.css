@@ -779,6 +779,8 @@ main {
 }
 .stand-alone h4 span {
 	display: block;
+	margin-top: 20px;
+	line-height: 1.1;
 }
 .stand-alone .col-sm-2 img {
 	max-width: 100%;
@@ -1036,6 +1038,12 @@ footer h4 {
 	.specifications .nav-tabs li {
 		margin-left: 0;
 		margin-right: 10px;
+	}
+	.stand-alone h4 {
+		line-height: 1.4;
+	}
+	.stand-alone h4 span {
+		line-height: 1.4;
 	}	
 	.stand-alone .first-one {
 		margin-bottom: 125px;
@@ -1418,6 +1426,9 @@ footer h4 {
 		margin-right: 25px;
 		margin-bottom: 50px;
 	}
+	.stand-alone .page-title {
+		font-size: 30px;
+	}
 	.stand-alone .hide-on-mobile {
 		display: none;
 	}
@@ -1526,6 +1537,10 @@ footer h4 {
 	}
 	.industries-page .banner {
 		margin-bottom: 25px;
+	}
+	.stand-alone h1 span {
+		display: block;
+		line-height: 1.1;
 	}
 }
 @media only screen and (max-width: 460px) {
@@ -1771,7 +1786,43 @@ footer h4 {
 	}
 	.industries-page footer {
 		margin-top: 0;
+	}
+	.stand-alone {
+		padding-bottom: 0;
 	}	
+	.stand-alone .left-side {
+		max-width: 163px;
+		margin-bottom: 30px;
+	}
+	.stand-alone .right-side {
+		max-width: 163px;
+	}
+	.stand-alone p {
+		font-size: 14px;
+	}
+	.stand-alone .show-on-mobile {
+		width: 110px;
+	}
+	.stand-alone .arrow-right {
+		width: 60px;
+		right: -49px;
+		bottom: 131px;
+	}
+	.stand-alone .first-one {
+		margin-bottom: 35px;
+	}
+	.stand-alone .arrow-curved {
+		width: 120px;
+		top: -36px;
+	}
+	.stand-alone .arrow-downleft {
+		width: 45px;
+		bottom: 88px;
+		left: -48px;
+	}
+	.stand-alone .third-one {
+		margin-bottom: 106px;
+	}
 	footer {
 		margin-top: 50px;
 	}

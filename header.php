@@ -42,8 +42,8 @@
                                         </div>
                                         <div id="mobile-collapse-nav1" class="collapse">
                                             <ul class="list-unstyled">
-                                                <li class="hidden"><a href="#"><?php echo $current_lang['nav-tech-dropdown-text-1'] ?></a></li>
-                                                <li class="hidden"><a href="#"><?php echo $current_lang['nav-tech-dropdown-text-2'] ?></a></li>
+                                                <li><a href="./stand-alone.php"><?php echo $current_lang['nav-tech-dropdown-text-1'] ?></a></li>
+                                                <li><a href="./stand-alone-800.php"><?php echo $current_lang['nav-tech-dropdown-text-1.2'] ?></a></li>
                                                 <li class="hidden"><a href="#"><?php echo $current_lang['nav-tech-dropdown-text-3'] ?></a></li>
                                                 <li><a href="./industries-application.php"><?php echo $current_lang['nav-tech-dropdown-text-4'] ?></a></li>
                                             </ul>
