@@ -192,6 +192,7 @@ $lang['en']['stand-alone-intro-text2'] = "The only difference between Built-in a
 
 $lang['en']['specification-page-title'] = "Technical Specification";
 $lang['en']['specification-page-end-title'] = "Want to check other options?";
+$lang['en']['specification-sa-page-end-title'] = "Want to check build-in options?";
 $lang['en']['specification-btn_f800'] = "Caeli 800";
 $lang['en']['specification-btn_f1100'] = "Caeli 1100";
 $lang['en']['specification-btn_f1500'] = "Caeli 1500";
