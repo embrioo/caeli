@@ -7,6 +7,7 @@ $lang['en']['nav-text-3'] = "Clients";
 $lang['en']['nav-text-4'] = "FAQ";
 $lang['en']['nav-text-5'] = "Contact us";
 $lang['en']['nav-tech-dropdown-text-1'] = "Stand Alone";
+$lang['en']['nav-tech-dropdown-text-1.2'] = "Caeli 800 - Stand alone";
 $lang['en']['nav-tech-dropdown-text-2'] = "Fit to &quot;FirePlay&quot;";
 $lang['en']['nav-tech-dropdown-text-3'] = "Fit to current systems";
 $lang['en']['nav-tech-dropdown-text-4'] = "Industries Application";
@@ -184,6 +185,12 @@ $lang['en']['industries-ul4_li6'] = "Real estates";
 $lang['en']['industries-ul4_li7'] = "Tires and Automotive industries";
 $lang['en']['industries-ul4_li8'] = "and more &hellip;";
 
+$lang['en']['stand-alone-page-title'] = "Working Principle (when Stand-alone)";
+$lang['en']['stand-alone-intro-text'] = "The same fundamental technology applies when the filters are of 
+Stand-alone type.";
+$lang['en']['stand-alone-intro-text2'] = "The only difference between Built-in and Stand-alone filters is “the way the air flows into the filter”.";
+
+
 $lang['en']['specification-page-title'] = "Technical Specification";
 $lang['en']['specification-page-end-title'] = "Want to check other options?";
 $lang['en']['specification-btn_f800'] = "Caeli 800";
@@ -236,6 +243,9 @@ $lang['en']['specification-f800_prop20_lbl'] = "Durability:";
 $lang['en']['specification-f800_prop20_val'] = "20-25 Years";
 $lang['en']['specification-f800_prop21_lbl'] = "Environment friendly:";
 $lang['en']['specification-f800_prop21_val'] = "Yes";
+$lang['en']['specification-sa-f800_name'] = "Caeli STAND-ALONE 800";
+$lang['en']['specification-sa-f800_prop11_val'] = "40 kg (when empty)";
+$lang['en']['specification-sa-f800_prop12_val'] = "62 dB";
 $lang['en']['specification-f1100_name'] = "Caeli IN / OUT 1100";
 $lang['en']['specification-f1100_desc'] = "Mid-size  Space  Solution";
 $lang['en']['specification-f1100_subs'] = "TO CLEAN THE INLET OR OUTLET AIR";
@@ -348,7 +358,7 @@ $lang['en']['specification-f2500_prop7_val'] = "18,000 m3/h";
 $lang['en']['specification-f2500_prop8_lbl'] = "Space size:";
 $lang['en']['specification-f2500_prop8_val'] = "5000 &ndash; 6000 m2";
 $lang['en']['specification-f2500_prop9_lbl'] = "Air flow temperature:";
-$lang['en']['specification-f2500_prop9_val'] = "&nbsp;";
+$lang['en']['specification-f2500_prop9_val'] = "min. 2 &deg;C &ndash; max. 60 &deg;C";
 $lang['en']['specification-f2500_prop10_lbl'] = "Filter dimensions:";
 $lang['en']['specification-f2500_prop10_val'] = "H/D = 2500/2500 cm";
 $lang['en']['specification-f2500_prop11_lbl'] = "Accesive dimensions:";
