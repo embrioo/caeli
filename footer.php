@@ -8,7 +8,9 @@
 								<li><a href="./tech-specification.php?caeli=spec1"><?php echo $current_lang['footer-link-text-1'] ?></a></li>
 								<li><a href="./tech-specification.php?caeli=spec2"><?php echo $current_lang['footer-link-text-2'] ?></a></li>
 								<li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['footer-link-text-3'] ?></a></li>
-								<li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['footer-link-text-4'] ?></a></li>
+                                <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['footer-link-text-4'] ?></a></li>
+                                <li><a href="./stand-alone-800.php"><?php echo $current_lang['footer-link-text-11'] ?></a></li>
+								<li><a href="./stand-alone-1100.php"><?php echo $current_lang['footer-link-text-12'] ?></a></li>
 							</ul>
 						</div>
 						<div class="col-sm-4">
