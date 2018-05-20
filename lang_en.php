@@ -1,6 +1,6 @@
 <?php 
-$lang['en']['logo-text'] = "Caeli-Engineering LLC";
-$lang['en']['logo-text-2'] = "Innovative Technology";
+$lang['en']['logo-text'] = "Caeli Engineering";
+$lang['en']['logo-text-2'] = "Innovative technology";
 $lang['en']['nav-text-1'] = "Applications";
 $lang['en']['nav-text-2'] = "Tech Description";
 $lang['en']['nav-text-3'] = "Clients";
@@ -434,5 +434,5 @@ $lang['en']['footer-link-text-7'] = "Working principle";
 $lang['en']['footer-link-text-8'] = "Vs scrubbers";
 $lang['en']['footer-link-text-9'] = "Clients & Partners";
 $lang['en']['footer-link-text-10'] = "Contact us";
-$lang['en']['footer-copyright-text'] = "&copy; 2018 All rights reserved. Caeli-Engineering LLC";
+$lang['en']['footer-copyright-text'] = "&copy; 2018 All rights reserved. Caeli Engineering LLC";
 ?>

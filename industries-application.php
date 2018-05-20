@@ -88,7 +88,7 @@
                             <h4><?php echo $current_lang['industries-ul4_lbl'] ?></h4>
                         </div>
 						<div class="col-sm-7 col-sm-offset-1">
-							<ul class="list_dash" style="margin-bottom: 50px;">
+							<ul class="list_dash">
 								<li><p><?php echo $current_lang['industries-ul4_li1'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li2'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li3'] ?></p></li>
@@ -96,10 +96,10 @@
 								<li><p><?php echo $current_lang['industries-ul4_li5'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li6'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li7'] ?></p></li>
-								<li class="list_unstyled">
+<!--								<li class="list_unstyled">
                                     <p>&nbsp;</p>
 									<p><?php echo $current_lang['industries-ul4_li8'] ?></p>
-								</li>									
+								</li>									-->
 							</ul>
 						</div>
 						<div class="col-sm-4">

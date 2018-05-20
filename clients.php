@@ -30,17 +30,17 @@
 						<div class="col-sm-4"><img alt="" src="./images/biovet-2.png"></div>
 						<div class="col-sm-4"><img class="mobile-hide" alt="" src="./images/biovet-4.png"></div>
 					</div>
-          <div class="texts-box">
-              <h4><?php echo $current_lang['clients-texts-box2_h4'] ?></h4>
-              <p><?php echo $current_lang['clients-texts-box2_p1'] ?></p>
-              <p><?php echo $current_lang['clients-texts-box2_p2'] ?></p>
-          </div>
-          <div class="row border-bot">
-              <div class="col-sm-4"><img alt="" src="./images/panacea1.png"></div>
-              <div class="col-sm-4"><img class="mobile-hide" alt="" src="./images/panacea2.png"></div>
-              <div class="col-sm-4"><img class="mobile-hide" alt="" src="./images/panacea3.png"></div>
-          </div>
-          <div class="texts-box">
+                    <div class="texts-box">
+                        <h4><?php echo $current_lang['clients-texts-box2_h4'] ?></h4>
+                        <p><?php echo $current_lang['clients-texts-box2_p1'] ?></p>
+                        <p><?php echo $current_lang['clients-texts-box2_p2'] ?></p>
+                    </div>
+                    <div class="row border-bot">
+                        <div class="col-sm-4"><img alt="" src="./images/panacea1.png"></div>
+                        <div class="col-sm-4"><img class="mobile-hide" alt="" src="./images/panacea2.png"></div>
+                        <div class="col-sm-4"><img class="mobile-hide" alt="" src="./images/panacea3.png"></div>
+                    </div>
+<!--                    <div class="texts-box">
 						<h4><?php echo $current_lang['clients-texts-box3_h4'] ?></h4>
 						<p><?php echo $current_lang['clients-texts-box3_p1'] ?></p>
 						<p><?php echo $current_lang['clients-texts-box3_p2'] ?></p>
@@ -48,7 +48,7 @@
 					<div class="row">
 						<div class="col-sm-8"><img alt="" src="./images/soflab.png"></div>
 						<div class="col-sm-4"><img alt="" src="./images/soflab2.png"></div>
-					</div>
+					</div>-->
 				</div>
             </div>
 		</div>

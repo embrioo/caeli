@@ -879,7 +879,7 @@ footer h4 {
 		padding: 0 0 20px;
 	}
 	.product-advantages h2 {
-		line-height: 1.2;
+		line-height: 1.5;
 		font-size: 28px;
 		margin-bottom: 35px;
 	}
@@ -1242,8 +1242,8 @@ footer h4 {
 		max-height: 260px;
 	}	
 	.principle .list-inline img {
-		width: 80px;
-		max-width: 80px;
+/*		width: 80px;
+		max-width: 80px;*/
 	}
 	.principle .copyrights {
 		font-size: 20px;
@@ -1531,6 +1531,10 @@ footer h4 {
 	.principle-page footer {
 		margin-top: 0;
 	}
+    .principle .list-inline img {
+         width: 56px!important;
+        /* max-width: 80px; */
+    }
 	.specifications h2 {
 		font-size: 26px;
 		margin-bottom: 15px;
