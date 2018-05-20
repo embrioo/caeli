@@ -371,7 +371,7 @@ $lang['en']['specification-f2500_prop9_lbl'] = "Air flow temperature:";
 $lang['en']['specification-f2500_prop9_val'] = "min. 2 &deg;C &ndash; max. 60 &deg;C";
 $lang['en']['specification-f2500_prop10_lbl'] = "Filter dimensions:";
 $lang['en']['specification-f2500_prop10_val'] = "H/D = 2500/2500 cm";
-$lang['en']['specification-f2500_prop11_lbl'] = "Accesive dimensions:";
+$lang['en']['specification-f2500_prop11_lbl'] = "Accession dimensions:";
 $lang['en']['specification-f2500_prop11_lbl2'] = "(inlet or outlet)";
 $lang['en']['specification-f2500_prop11_val'] = "240 x 240 /square/";
 $lang['en']['specification-f2500_prop11_val2'] = "or Ф = 260 /circle/";

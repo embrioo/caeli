@@ -27,14 +27,14 @@
 									<p>Contaminated water is drained either manually or via sewerage (with a connection between the filter and the sewer) - an individual solution depending on the type of the pollutant and the infrastructural features of the premises.</p>
 								</div>
 							</div>
-							<img class="show-on-mobile" src="./images/Water-Cyclone-Air-Filter-Caeli-Stand-alone-Innovation.png">			
+							<img class="show-on-mobile" src="./images/Water-Cyclone-Air-Filter-Caeli-Stand-alone-Innovation.png" alt="Water Cyclone air filters by Caeli-Engineering - Innovative technology that capture 99.3% of all air particles (Caeli Stand-alone) - 800">			
 						</div>
 						<div class="col-sm-2">
 							<img class="arrow-up" src="./images/arrow-up.png">
-							<img class="hide-on-mobile" src="./images/Water-Cyclone-Air-Filter-Caeli-Stand-alone-Innovation.png">
+							<img class="hide-on-mobile" src="./images/Water-Cyclone-Air-Filter-Caeli-Stand-alone-Innovation.png" alt="Water Cyclone air filters by Caeli-Engineering - Innovative technology that capture 99.3% of all air particles (Caeli Stand-alone) - 800">
 						</div>
 						<div class="col-sm-5">
-							<img class="show-on-mobile" src="./images/Water-Cyclone-Air-Filter-Caeli-Stand-alone-Innovation.png">	
+							<img class="show-on-mobile" src="./images/Water-Cyclone-Air-Filter-Caeli-Stand-alone-Innovation.png" alt="Water Cyclone air filters by Caeli-Engineering - Innovative technology that capture 99.3% of all air particles (Caeli Stand-alone) - 800">	
 							<div class="wraping-box right-side">								
 								<div class="details-box third-one">
 									<img class="arrow-downleft" src="./images/arrow-downleft.png">
