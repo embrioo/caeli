@@ -6,9 +6,7 @@
 		<main>
 			<section class="page-banner banner">
 				<div class="container-fluid">
-					<div class="box">
-						<h1><?php echo $current_lang['home-banner-text'] ?></h1>
-					</div>
+					<div class="box"><h1><?php echo $current_lang['home-banner-text'] ?></h1></div>
 				</div>
 			</section>
 			<section class="product-advantages">
@@ -80,7 +78,7 @@
 								<li><a href="/tech-specification.php?caeli=spec2"><?php echo $current_lang['innovative-text-2'] ?></a></li>
 								<li><a class="bigger-margin-bottom" href="/tech-description.php"><?php echo $current_lang['innovative-text-3'] ?></a></li>
 								<li><a href="#"><?php echo $current_lang['innovative-text-4'] ?></a></li>
-								<li><a href="#"><?php echo $current_lang['innovative-text-5'] ?></a></li>
+<!--								<li><a href="#"><?php echo $current_lang['innovative-text-5'] ?></a></li>-->
 							</ul>
 							<div class="round-image-box"><img class="avatar" src="./images/filter.png"></div>
 						</div>
