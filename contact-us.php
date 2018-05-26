@@ -5,29 +5,11 @@
 ?>
 <style type="text/css">
 
-/* FontAwesome for working BootSnippet :> */
-/*https://bootsnipp.com/snippets/featured/team-design-card-flipper-using-bootstrap-4*/
-
-
 .btn-primary:hover,
-.btn-primary:focus {
-    background-color: #308F90;
-    border-color: #308F90;
-    box-shadow: none;
-    outline: none;
-}
+.btn-primary:focus { background-color: #308F90; border-color: #308F90; box-shadow: none; outline: none; }
+.btn-primary { color: #fff; background-color: #308F90; border-color: #308F90; }
 
-.btn-primary {
-    color: #fff;
-    background-color: #308F90;
-    border-color: #308F90;
-}
-
-
-#team .card {
-    border: none;
-    background: #ffffff;
-}
+#team .card { border: none; background: #ffffff; }
 
 .image-flip:hover .backside,
 .image-flip.hover .backside {
@@ -38,7 +20,6 @@
     transform: rotateY(0deg);
     border-radius: .25rem;
 }
-
 .image-flip:hover .frontside,
 .image-flip.hover .frontside {
     -webkit-transform: rotateY(180deg);
@@ -102,35 +83,18 @@
 }
 
 .frontside .card,
-.backside .card {
-    min-height: 312px;
-}
-
-.backside .card a {
-    font-size: 18px;
-    color: #308F90 !important;
-}
-
+.backside .card { min-height: 312px; }
+.backside .card a { font-size: 18px; color: #308F90 !important; }
 .frontside .card .card-title,
-.backside .card .card-title {
-    color: #308F90 !important;
-}
-
-.frontside .card .card-body img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-}
+.backside .card .card-title { color: #308F90 !important; }
+.frontside .card .card-body img { width: 120px; height: 120px; border-radius: 50%; }
 </style>
 <main>
     <section class="page-banner banner">
         <div class="container-fluid">
-            <div class="box">
-                <h1><?php echo $current_lang['home-banner-text'] ?></h1>
-            </div>
+            <div class="box"><h1><?php echo $current_lang['home-banner-text'] ?></h1></div>
         </div>
     </section>
-<!-- Team -->
     <section id="team" class="pb-5">
         <div class="container">
             <div class="row">
@@ -139,9 +103,7 @@
                     <div class="row leaders">                        
                         <div class="col-sm-6 col-sm-push-6">
                             <div class="right-side">
-                                <div class="img-box">
-                                    <img alt="" src="./images/Rennie-pic.png">
-                                </div>
+                                <div class="img-box"><img alt="" src="./images/Rennie-pic.png"></div>
                                 <h4><?php echo $current_lang['contact-member1_name'] ?></h4>
                                 <ul class="list-unstyled info-list">
                                     <li><p><?php echo $current_lang['contact-member1_pos'] ?></p></li>
@@ -161,9 +123,7 @@
                         </div>
                         <div class="col-sm-6 col-sm-pull-6">
                             <div class="left-side">
-                                <div class="img-box">
-                                    <img alt="" src="./images/Atanas-pic.png">
-                                </div>
+                                <div class="img-box"><img alt="" src="./images/Atanas-pic.png"></div>
                                 <h4><?php echo $current_lang['contact-member4_name'] ?></h4>
                                 <ul class="list-unstyled info-list">
                                     <li><p><?php echo $current_lang['contact-member4_pos'] ?></p></li>
@@ -177,14 +137,13 @@
                                     </li>
                                     <li><a href="mailto:atanas.galchev@caeli-engineering.com">atanas.galchev@caeli-engineering.com</a></li>
                                     <li><a href="#">+359 886 86 86 68</a></li>
-                                    <li><p><?php echo $current_lang['contact-lbl_skype'] ?>:   .....</p></li>
+                                    <li><p><?php echo $current_lang['contact-lbl_skype'] ?>:   atanas.galchev</p></li>
                                 </ul>
                             </div>                                            
                         </div>
                     </div>
                     <h2><?php echo $current_lang['contact-lbl_all_team'] ?></h2>
                     <div class="row">
-                        <!-- Team member -->
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                                 <div class="mainflip">
@@ -223,8 +182,7 @@
                                     <div class="frontside">
                                         <div class="card">
                                             <div class="card-body text-center">
-                                                <p><img class=" img-fluid" src="./images/Todor-pic.png" title="Todor Givechev, Inventor, innovative air filters Caeli" alt="Todor Givechev, Inventor, innovative air filters, co-founder at Caeli Engineering LLC
-"></p>
+                                                <p><img class=" img-fluid" src="./images/Todor-pic.png" title="Todor Givechev, Inventor, innovative air filters Caeli" alt="Todor Givechev, Inventor, innovative air filters, co-founder at Caeli Engineering LLC"></p>
                                                 <h4 class="card-title"><?php echo $current_lang['contact-member2_name'] ?></h4>
                                                 <p class="card-text"><?php echo $current_lang['contact-member2_pos'] ?></p>
                                                 <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus" style="color: #fff;"></i></a>

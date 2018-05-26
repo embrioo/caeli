@@ -78,7 +78,6 @@
 								<li><a href="/tech-specification.php?caeli=spec2"><?php echo $current_lang['innovative-text-2'] ?></a></li>
 								<li><a class="bigger-margin-bottom" href="/tech-description.php"><?php echo $current_lang['innovative-text-3'] ?></a></li>
 								<li><a href="#"><?php echo $current_lang['innovative-text-4'] ?></a></li>
-<!--								<li><a href="#"><?php echo $current_lang['innovative-text-5'] ?></a></li>-->
 							</ul>
 							<div class="round-image-box"><img class="avatar" src="./images/filter.png"></div>
 						</div>
@@ -91,12 +90,12 @@
 						<span><?php echo $current_lang['order-now-text-1'] ?></span>
 						<span><?php echo $current_lang['order-now-text-2'] ?></span>
 						<span><?php echo $current_lang['order-now-text-3'] ?></span>
-						<span><?php echo $current_lang['order-now-text-4'] ?></span>
+                        <span><?php echo $current_lang['order-now-text-4'] ?></span>
 					</h3>
 					<h2><?php echo $current_lang['order-now-heading'] ?></h2>
 					<a class="order-now-button" href="https://www.facebook.com/pg/caeli.engineering/shop/?ref=page_internal" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
 					<a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
-                    <p class="final-text"><?php echo $current_lang['order-now-text-5'] ?><span><?php echo $current_lang['order-now-text-6'] ?></span></p>
+                    <p class="final-text"><?php echo $current_lang['order-now-text-5'] ?>&nbsp;<span><?php echo $current_lang['order-now-text-6'] ?></span></p>
 				</div>
 			</section>
 		</main>

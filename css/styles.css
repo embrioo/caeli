@@ -355,7 +355,7 @@ main {
 	text-align: center;
 }
 .order-now-button:hover {
-	background-color: ;
+/*	background-color: ;*/
 	-webkit-box-shadow: inset 0px 0px 15px 6px rgba(12,168,137,1);
 	-moz-box-shadow: inset 0px 0px 15px 6px rgba(12,168,137,1);
 	box-shadow: inset 0px 0px 15px 6px rgba(12,168,137,1);

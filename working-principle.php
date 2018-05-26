@@ -74,7 +74,6 @@
 							<div class="type-view">
 								<h4>
 									<span><?php echo $current_lang['principle-type3-span-text-1'] ?></span>
-									<span><?php echo $current_lang['principle-type3-span-text-2'] ?></span>
 									<span><?php echo $current_lang['principle-type3-span-text-3'] ?></span>
 								</h4>
 								<img src="./images/type-3.png" alt="third-type" style="margin-top: -10px;">

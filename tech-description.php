@@ -15,7 +15,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-10 col-lg-offset-1">
-          <h3 class="page-title"><?php echo $current_lang['tech-page-title'] ?></h3>
+                    <h3 class="page-title"><?php echo $current_lang['tech-page-title'] ?></h3>
 					<div class="row">
 						<div class="col-sm-8">
 							<div class="text-holder">

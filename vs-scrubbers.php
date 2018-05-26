@@ -74,12 +74,10 @@
 						<div class="col-xs-12 col-sm-4"><h4 style="line-height: 1.4;"><?php echo $current_lang['scrubbers-comp7_title'] ?></h4></div>
 						<div class="col-xs-6 col-sm-4">
 							<p><?php echo $current_lang['scrubbers-comp7_scr_desc1'] ?></p>
-<!--							<p><?php echo $current_lang['scrubbers-comp7_scr_desc2'] ?></p>-->
 						</div>
 						<div class="col-xs-6 col-sm-4">
 							<p><?php echo $current_lang['scrubbers-comp7_flt_desc1'] ?></p>
 							<p><?php echo $current_lang['scrubbers-comp7_flt_desc2'] ?></p>
-<!--							<p><?php echo $current_lang['scrubbers-comp7_flt_desc3'] ?></p>-->
 						</div>
 					</div>
                     <div class="row">

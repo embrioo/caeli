@@ -6,9 +6,7 @@
 <main>
 	<section class="page-banner banner">
 		<div class="container-fluid">
-			<div class="box">
-				<h1><?php echo $current_lang['home-banner-text'] ?></h1>
-			</div>
+			<div class="box"><h1><?php echo $current_lang['home-banner-text'] ?></h1></div>
 		</div>
 	</section>
 	<section class="our-clients">

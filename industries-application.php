@@ -15,9 +15,9 @@
 				<div class="col-lg-10 col-lg-offset-1">
 					<h1 class="page-title"><?php echo $current_lang['industries-page-title'] ?></h1>
 					<div class="row">
-            <div class="col-sm-11 col-sm-offset-1">
-              <h4><?php echo $current_lang['industries-ul1_lbl'] ?></h4>
-            </div>
+                        <div class="col-sm-11 col-sm-offset-1">
+                            <h4><?php echo $current_lang['industries-ul1_lbl'] ?></h4>
+                        </div>
 						<div class="col-sm-7 col-sm-offset-1">
 							<ul class="list_dash">
 								<li><p><?php echo $current_lang['industries-ul1_li1'] ?></p></li>
@@ -44,10 +44,7 @@
 								<li><p><?php echo $current_lang['industries-ul2_li2'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul2_li3'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul2_li4'] ?></p></li>
-								<li><p><?php echo $current_lang['industries-ul2_li5'] ?></p></li>
                                 <li><p><?php echo $current_lang['industries-ul2_li6'] ?></p></li>
-								<li><p><?php echo $current_lang['industries-ul2_li7'] ?></p></li>
-								<li><p><?php echo $current_lang['industries-ul2_li8'] ?></p></li>
 							</ul>
 						</div>
 						<div class="col-sm-4">
@@ -96,10 +93,6 @@
 								<li><p><?php echo $current_lang['industries-ul4_li5'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li6'] ?></p></li>
 								<li><p><?php echo $current_lang['industries-ul4_li7'] ?></p></li>
-<!--								<li class="list_unstyled">
-                                    <p>&nbsp;</p>
-									<p><?php echo $current_lang['industries-ul4_li8'] ?></p>
-								</li>									-->
 							</ul>
 						</div>
 						<div class="col-sm-4">
@@ -110,6 +103,24 @@
 							</div>
 						</div>
 					</div>
+                    <div class="row">
+                        <div class="col-sm-11 col-sm-offset-1">
+                            <h4><?php echo $current_lang['industries-ul5_lbl'] ?></h4>
+                        </div>
+                        <div class="col-sm-7 col-sm-offset-1">
+                            <ul class="list_dash">
+                                <li><p><?php echo $current_lang['industries-ul5_li1'] ?></p></li>
+                                <li><p><?php echo $current_lang['industries-ul5_li2'] ?></p></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="img-box">
+                                <h5><?php echo $current_lang['industries-lbl_best'] ?></h5>
+                                <h4><a href="/tech-specification.php?caeli=spec3" style="color: #308F90; font-size: 18px;"><?php echo $current_lang['industries-lbl_caeli_1500'] ?></a></h4>
+                                <a href="/tech-specification.php?caeli=spec3"><img alt="" src="./images/Optimized-filter.png"></a>        
+                            </div>
+                        </div>
+                    </div>
 				</div>
 			</div>
 		</div>
