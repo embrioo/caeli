@@ -2,13 +2,14 @@
 $lang['en']['logo-text'] = "Caeli Engineering";
 $lang['en']['logo-text-2'] = "Innovative technology";
 
-$lang['en']['nav-text-1'] = "Applications";
-$lang['en']['nav-text-2'] = "Tech Description";
+$lang['en']['nav-text-1'] = "Tech Description";
+$lang['en']['nav-text-2'] = "Products";
 $lang['en']['nav-text-3'] = "Clients";
 $lang['en']['nav-text-4'] = "FAQ";
 $lang['en']['nav-text-5'] = "Contact us";
 
-$lang['en']['nav-tech-dropdown-text-1'] = "Working Principle (Stand-alone)";
+//$lang['en']['nav-tech-dropdown-text-1'] = "Working Principle (Stand-alone)";
+$lang['en']['nav-tech-dropdown-text-1'] = "Stand-alone (mobile) option";
 $lang['en']['nav-tech-dropdown-text-1.2'] = "Caeli Stand-alone - 800";
 $lang['en']['nav-tech-dropdown-text-1.3'] = "Caeli Stand-alone - 1100";
 $lang['en']['nav-tech-dropdown-text-2'] = "Fit to &quot;FirePlay&quot;";
@@ -24,7 +25,7 @@ $lang['en']['nav-tech-dropdown-text-11'] = "General Tech Terms";
 $lang['en']['nav-tech-dropdown-text-12'] = "Caeli 2500 - Tech specification";
 
 $lang['en']['home-banner-text'] = "Water Cyclone Air Filters";
-$lang['en']['home-intro-text-1'] = "Catch 99.3% of all air particles";
+$lang['en']['home-intro-text-1'] = "Capture 99.3% of all air particles";
 $lang['en']['home-intro-text-2'] = "(mechanical, biological and most of chemicals)";
 $lang['en']['home-intro-text-3'] = "in your R&D Labs, Production and Storage premises";
 $lang['en']['home-intro-text-4'] = "Stand-alone, Retro-fit <u>or</u> New installations";
@@ -46,7 +47,7 @@ $lang['en']['advantage-span-text-4'] = "reports 99.3% - 99.9%.";
 $lang['en']['innovative-heading'] = "Meet our Innovative Technology";
 $lang['en']['innovative-text-1'] = "Working Principle";
 $lang['en']['innovative-text-2'] = "Tech Specifications";
-$lang['en']['innovative-text-3'] = "Tech Details";
+$lang['en']['innovative-text-3'] = "General Tech Terms";
 $lang['en']['innovative-text-4'] = "Certificates";
 $lang['en']['innovative-text-5'] = "Patent";
 
@@ -74,7 +75,7 @@ $lang['en']['principle-paragraph-text-1-1'] = "The heavy and rough mechanical pa
 $lang['en']['principle-paragraph-text-2'] = "The air that no longer has rough mechanical particles makes passage under the water while entering the second container.";
 $lang['en']['principle-paragraph-text-3'] = "The second container is placed inside of the first container, and assures fast upward spinning for all fine particles filtration.";
 $lang['en']['principle-paragraph-text-4'] = "All the bacteria, microbes, aroma particles, chemicals, and the finest mechanical ones are finally captured here.";
-$lang['en']['principle-paragraph-text-5'] = "The air flows out of the filter at a high speed, also  causing water vortex.";
+//$lang['en']['principle-paragraph-text-5'] = "The air flows out of the filter at a high speed, also  causing water vortex.";
 $lang['en']['principle-paragraph-text-6'] = "The air enters the 3rd cyclone where the moisture is taken out from the air.";
 $lang['en']['principle-paragraph-text-7'] = "The outlet air moisture is  back to normal level at 50-70%.";
 $lang['en']['principle-particle-span-text-1'] = "Capture";
@@ -188,10 +189,10 @@ $lang['en']['industries-ul5_lbl'] = "5. Transportation";
 $lang['en']['industries-ul5_li1'] = "Train wagons";
 $lang['en']['industries-ul5_li2'] = "Ships and Ferries";
 
-$lang['en']['stand-alone-page-title'] = "Working Principle ";
-$lang['en']['stand-alone-page-title2'] = "(when Stand-alone)";
-$lang['en']['stand-alone-intro-text'] = "The same fundamental technology applies when the filters are of Stand-alone type.";
-$lang['en']['stand-alone-intro-text2'] = "The only difference between Built-in and Stand-alone filters is “the way the air flows into the filter”.";
+$lang['en']['stand-alone-page-title'] = "Stand-alone ";
+$lang['en']['stand-alone-page-title2'] = "(mobile) option";
+$lang['en']['stand-alone-intro-text'] = "The same <a href='/working-principle.php?#wpht' style='color: #98ADBB; font-size: 18px;' title='Working Principle'>fundamental Caeli technology</a> applies to Stand-alone (mobile) filters.";
+$lang['en']['stand-alone-intro-text2'] = "What is the difference between Built-in and Stand-alone? Stand-alone filters work with <strong style='font-size: 18px;'>own</strong> turbine and electric motor.";
 $lang['en']['stand-alone-p1-txt'] = "The air flows into the filter thanks to a turbine and an electric motor which are located at the outlet of the filter. The turbine and the electrical motor are assembled into a common compact device.";
 $lang['en']['stand-alone-p2-txt'] = "Contaminated water is drained either manually or via sewerage (with a connection between the filter and the sewer) - an individual solution depending on the type of the pollutant and the infrastructural features of the premises.";
 $lang['en']['stand-alone-p3-txt'] = "Hepa Filter is installed at the outlet to regulate the outlet air jet, otherwise the jet of already clean air will go out  of the filter under high pressure.";
@@ -430,9 +431,12 @@ $lang['en']['scrubbers-comp2_scr_desc1'] = "Mechanical (Grid)";
 $lang['en']['scrubbers-comp2_flt_desc1'] = "Water cyclones";
 $lang['en']['scrubbers-comp3_title'] = "3. Pollutants";
 $lang['en']['scrubbers-comp3_scr_desc1'] = "Mechanical particles only";
-$lang['en']['scrubbers-comp3_flt_desc1'] = "+ Mechanical (rough & finest)";
+$lang['en']['scrubbers-comp3_flt_desc0'] = "Capture:";
+$lang['en']['scrubbers-comp3_flt_desc1'] = "+ All Mechanical (rough & finest)";
 $lang['en']['scrubbers-comp3_flt_desc2'] = "+ All Biological (bacteria &amp; viruses)";
 $lang['en']['scrubbers-comp3_flt_desc3'] = "+ Most of Chemicals";
+$lang['en']['scrubbers-comp3_flt_desc4'] = "+ Most of Aroma";
+$lang['en']['scrubbers-comp3_flt_desc5'] = "see how";
 $lang['en']['scrubbers-comp4_title'] = "4. Efficiency";
 $lang['en']['scrubbers-comp4_scr_desc1'] = "Avg. efficiency:";
 $lang['en']['scrubbers-comp4_flt_desc1'] = "Avg. efficiency:";

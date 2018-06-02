@@ -34,20 +34,22 @@
                                         <i class="fa fa-chevron-down" aria-hidden="true"></i>
                                         <div class="dropdown-menu" aria-labelledby="applist">
                                             <ul class="list-unstyled">
+                                                <li><a href="./working-principle.php"><?php echo $current_lang['nav-tech-dropdown-text-5'] ?></a></li>
                                                 <li><a href="./stand-alone.php"><?php echo $current_lang['nav-tech-dropdown-text-1'] ?></a></li>
-                                                <li><a href="./stand-alone-800.php"><?php echo $current_lang['nav-tech-dropdown-text-1.2'] ?></a></li>
-                                                <li><a href="./stand-alone-1100.php"><?php echo $current_lang['nav-tech-dropdown-text-1.3'] ?></a></li>
+                                                <li><a href="./tech-description.php"><?php echo $current_lang['nav-tech-dropdown-text-11'] ?></a></li>
                                                 <li class="hidden"><a href="#"><?php echo $current_lang['nav-tech-dropdown-text-3'] ?></a></li>
                                                 <li><a href="./industries-application.php"><?php echo $current_lang['nav-tech-dropdown-text-4'] ?></a></li>
+                                                <li><a href="./vs-scrubbers.php"><?php echo $current_lang['nav-tech-dropdown-text-10'] ?></a></li>
                                             </ul>
                                         </div>
                                         <div id="mobile-collapse-nav1" class="collapse">
                                             <ul class="list-unstyled">
+                                                <li><a href="./working-principle.php"><?php echo $current_lang['nav-tech-dropdown-text-5'] ?></a></li>
                                                 <li><a href="./stand-alone.php"><?php echo $current_lang['nav-tech-dropdown-text-1'] ?></a></li>
-                                                <li><a href="./stand-alone-800.php"><?php echo $current_lang['nav-tech-dropdown-text-1.2'] ?></a></li>
-                                                <li><a href="./stand-alone-1100.php"><?php echo $current_lang['nav-tech-dropdown-text-1.3'] ?></a></li>
+                                                <li><a href="./tech-description.php"><?php echo $current_lang['nav-tech-dropdown-text-11'] ?></a></li>
                                                 <li class="hidden"><a href="#"><?php echo $current_lang['nav-tech-dropdown-text-3'] ?></a></li>
                                                 <li><a href="./industries-application.php"><?php echo $current_lang['nav-tech-dropdown-text-4'] ?></a></li>
+                                                <li><a href="./vs-scrubbers.php"><?php echo $current_lang['nav-tech-dropdown-text-10'] ?></a></li>
                                             </ul>
                                         </div>
                                     </li>
@@ -56,23 +58,23 @@
                                         <i class="fa fa-chevron-down" aria-hidden="true"></i>
                                         <div class="dropdown-menu" aria-labelledby="techlist">
                                             <ul class="list-unstyled">
-                                                <li><a href="./working-principle.php"><?php echo $current_lang['nav-tech-dropdown-text-5'] ?></a></li>
-                                                <li><a href="./tech-description.php"><?php echo $current_lang['nav-tech-dropdown-text-11'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec1"><?php echo $current_lang['nav-tech-dropdown-text-6'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec2"><?php echo $current_lang['nav-tech-dropdown-text-7'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['nav-tech-dropdown-text-8'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['nav-tech-dropdown-text-12'] ?></a></li>                            
+                                                <li><a href="./stand-alone-800.php"><?php echo $current_lang['nav-tech-dropdown-text-1.2'] ?></a></li>
+                                                <li><a href="./stand-alone-1100.php"><?php echo $current_lang['nav-tech-dropdown-text-1.3'] ?></a></li>
                                                 <li><a href="./vs-scrubbers.php"><?php echo $current_lang['nav-tech-dropdown-text-10'] ?></a></li>
                                             </ul>
                                         </div>
                                         <div id="mobile-collapse-nav2" class="collapse">
                                             <ul class="list-unstyled">
-                                                <li><a href="./working-principle.php"><?php echo $current_lang['nav-tech-dropdown-text-5'] ?></a></li>
-                                                <li><a href="./tech-description.php"><?php echo $current_lang['nav-tech-dropdown-text-11'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec1"><?php echo $current_lang['nav-tech-dropdown-text-6'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec2"><?php echo $current_lang['nav-tech-dropdown-text-7'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['nav-tech-dropdown-text-8'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['nav-tech-dropdown-text-12'] ?></a></li>                            
+                                                <li><a href="./stand-alone-800.php"><?php echo $current_lang['nav-tech-dropdown-text-1.2'] ?></a></li>
+                                                <li><a href="./stand-alone-1100.php"><?php echo $current_lang['nav-tech-dropdown-text-1.3'] ?></a></li>
                                                 <li><a href="./vs-scrubbers.php"><?php echo $current_lang['nav-tech-dropdown-text-10'] ?></a></li>
                                             </ul>
                                         </div>

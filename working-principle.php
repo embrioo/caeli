@@ -6,7 +6,7 @@
 <main>
 	<section class="page-banner banner">
 		<div class="container-fluid">
-			<div class="box"><h1><?php echo $current_lang['home-banner-text'] ?></h1></div>
+			<div class="box"><h1 id="wpht"><?php echo $current_lang['home-banner-text'] ?></h1></div>
 		</div>
 	</section>
 	<section class="principle">
@@ -80,7 +80,7 @@
 							</div>
 						</div>
 						<div class="col-sm-4 col-xs-8">
-							<p><?php echo $current_lang['principle-paragraph-text-5'] ?></p>
+<!--							<p><?php echo $current_lang['principle-paragraph-text-5'] ?></p>-->
 							<p><?php echo $current_lang['principle-paragraph-text-6'] ?></p>
 							<p><?php echo $current_lang['principle-paragraph-text-7'] ?></p>
 						</div>

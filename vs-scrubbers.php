@@ -17,7 +17,7 @@
 					<div class="row border-row">
 						<div class="col-sm-4">&nbsp;</div>
 						<div class="col-xs-6 col-sm-4"><h4 class="marg-top"><?php echo $current_lang['scrubbers-scr_lbl'] ?></h4></div>
-						<div class="col-xs-6 col-sm-4"><img alt="" src="./images/type-1.png"><h4><?php echo $current_lang['scrubbers-flt_lbl'] ?></h4></div>
+						<div class="col-xs-6 col-sm-4"><img alt="" src="./images/type-1.png"><h4 style="margin-left: 10px;"><?php echo $current_lang['scrubbers-flt_lbl'] ?></h4></div>
 					</div>
 					<div class="row heading-row">
 						<div class="col-xs-12 col-sm-4"><h4><?php echo $current_lang['scrubbers-comp1_title'] ?></h4></div>
@@ -40,12 +40,18 @@
 					</div>
 					<div class="row">
 						<div class="col-xs-12 col-sm-4"><h4><?php echo $current_lang['scrubbers-comp3_title'] ?></h4></div>
-						<div class="col-xs-6 col-sm-4"><p class="margin-down"><?php echo $current_lang['scrubbers-comp3_scr_desc1'] ?></p></div>
 						<div class="col-xs-6 col-sm-4">
+                            <p style="margin-bottom: 10px;"><span><?php echo $current_lang['scrubbers-comp3_flt_desc0'] ?></span></p>
+                            <p class="margin-down" style="height: 100px;"><?php echo $current_lang['scrubbers-comp3_scr_desc1'] ?></p>
+                        </div>
+						<div class="col-xs-6 col-sm-4">
+                            <p style="margin-bottom: 10px;"><span><?php echo $current_lang['scrubbers-comp3_flt_desc0'] ?></span></p>
 							<p class="dark-text">
 								<span><?php echo $current_lang['scrubbers-comp3_flt_desc1'] ?></span>
 								<span><?php echo $current_lang['scrubbers-comp3_flt_desc2'] ?></span>
-								<span><?php echo $current_lang['scrubbers-comp3_flt_desc3'] ?></span>
+                                <span><?php echo $current_lang['scrubbers-comp3_flt_desc3'] ?></span>
+                                <span><?php echo $current_lang['scrubbers-comp3_flt_desc4'] ?></span>
+								<span><a href="/working-principle.php?#wpht" style="color: #98ADBB; text-decoration: underline; font-weight: normal; display: block; margin: 15px;"><?php echo $current_lang['scrubbers-comp3_flt_desc5'] ?></a></span>
 							</p>
 						</div>
 					</div>
