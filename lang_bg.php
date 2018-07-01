@@ -26,8 +26,8 @@ $lang['bg']['nav-tech-dropdown-text-12'] = "Caeli 2500 - Tech specification";
 $lang['bg']['home-banner-text'] = "Water Cyclone Air Filters";
 $lang['bg']['home-intro-text-1'] = "Улавя 99.3% от всички частици";
 $lang['bg']['home-intro-text-2'] = "във въздуха включително";
-$lang['bg']['home-intro-text-3'] = "Механични, Бактерии, Вируси, Ароматни и някои Химични";
-$lang['bg']['home-intro-text-4'] = "Stand-alone, Retro-fit <u>or</u> New installations";
+$lang['bg']['home-intro-text-3'] = "механични, бактерии, вируси, ароматни и някои повечето химични";
+$lang['bg']['home-intro-text-4'] = "Stand-alone, Retro-fit <u>или</u> нови инсталации";
 
 $lang['bg']['advantage-heading-1'] = "Ниски разходи за поддръжка";
 $lang['bg']['advantage-heading-2'] = "Самопочистващ се";
@@ -51,9 +51,9 @@ $lang['bg']['innovative-text-4'] = "Сертификати";
 $lang['bg']['innovative-text-5'] = "Патент";
 
 $lang['bg']['order-now-text-1'] = "Чистият въздух е от съществено значение за :";
-$lang['bg']['order-now-text-2'] = "R&D лаборатории, Аптеки, Fine electronics, Роботика, Кинетика,";
-$lang['bg']['order-now-text-3'] = "3D/Bio-printing, Нано, Медицина и Дентална Медицина,";
-$lang['bg']['order-now-text-4'] = "Козметика, и храна и Производители на напитки.";
+$lang['bg']['order-now-text-2'] = "R&D лаборатории, фармацевтика, роботика, кинетика,";
+$lang['bg']['order-now-text-3'] = "3D/Био-принтиране, нано, медицина и дентална медицина,";
+$lang['bg']['order-now-text-4'] = "козметична и хранителна индустрии.";
 $lang['bg']['order-now-text-5'] = "Филтрите могат да бъдат ретро-приспособени към съществуващите инсталации";
 $lang['bg']['order-now-text-6'] = "to the existing installations";
 $lang['bg']['order-now-heading'] = "Един от тях?";
