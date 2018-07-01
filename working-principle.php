@@ -85,7 +85,10 @@
 							<p><?php echo $current_lang['principle-paragraph-text-7'] ?></p>
 						</div>
 						<div class="col-xs-12 col-sm-4">
-							<h4 class="text-uppercase"><?php echo $current_lang['principle-moisture-text'] ?></h4>
+							<h4 class="text-uppercase">
+                                    <span><?php echo $current_lang['principle-moisture-span-text-1'] ?></span>
+                                    <span><?php echo $current_lang['principle-moisture-span-text-2'] ?></span>
+                            </h4>
                             <ul class="list-inline" style="margin-top: 13px; padding-left: 6px;">
                                 <li style="padding: 0 2px;"><img alt="" src="./images/Moisture-goes-out-Caeli-Filters.png" style="width: 69px;"></li>
                                 <li style="padding: 0 2px;"><img alt="" src="./images/Moisture-goes-out-Caeli-Filters.png" style="width: 69px;"></li>

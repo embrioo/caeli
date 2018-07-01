@@ -28,7 +28,7 @@
                                         <div class="tech-info-box">
                                             <h2><?php echo $current_lang['specification-sa-f800_name'] ?></h2>
                                             <p class="sub-label text-uppercase orange-colored"><?php echo $current_lang['specification-f800_desc'] ?></p>
-                                            <p class="margin-bottom"><?php echo $current_lang['specification-f800_subs'] ?></p>
+                                            <p class="margin-bottom"><?php echo $current_lang['specification-sa-f800_subs'] ?></p>
                                             <div class="row mobile-padding">
                                                 <div class="col-sm-12">
                                                     <p class="row row-spec"><span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['specification-f800_prop1_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['specification-f800_prop1_val'] ?></span></p>
