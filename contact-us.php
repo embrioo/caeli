@@ -142,6 +142,7 @@
                             </div>                                            
                         </div>
                     </div>
+<div class="hidden">
                     <h2><?php echo $current_lang['contact-lbl_all_team'] ?></h2>
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-4">
@@ -240,6 +241,7 @@
                         </div>
                         <!-- ./Team member -->
                     </div>
+</div>
                 </div>
             </div>
         </div>

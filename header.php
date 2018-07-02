@@ -79,7 +79,7 @@
                                             </ul>
                                         </div>
                                     </li>
-                                    <li><a href="clients.php"><?php echo $current_lang['nav-text-3'] ?></a></li>
+                                    <li class="hidden"><a href="clients.php"><?php echo $current_lang['nav-text-3'] ?></a></li>
                                     <li class="hidden"><a href="#"><?php echo $current_lang['nav-text-4'] ?></a></li>
                                     <li><a href="contact-us.php"><?php echo $current_lang['nav-text-5'] ?></a></li>
                                 </ul>
