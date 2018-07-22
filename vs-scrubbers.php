@@ -29,7 +29,8 @@
 							<ul class="list_dash">
 								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc1'] ?></p></li>
 								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc2'] ?></p></li>
-								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc3'] ?></p></li>
+                                <li><p><?php echo $current_lang['scrubbers-comp1_flt_desc3'] ?></p></li>
+								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc4'] ?></p></li>
 							</ul>
 						</div>
 					</div>
