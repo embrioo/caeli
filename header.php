@@ -1,5 +1,11 @@
 <!--<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>-->
-
+<style type="text/css">
+    .flag {
+        width: 20px;
+        height: 20px;
+        margin: 0 6px;
+    }
+</style>
 <header style="box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12); border-bottom: none;">
 	<div class="container">
         <div class="row">
@@ -18,6 +24,26 @@
                     </div>
                     <div class="col-sm-8">
                         <ul class="contact-us list-unstyled list-inline">
+                            <li>
+<div class="btn-group">
+  <button type="button" class="btn btn-default" style="padding: 4px;"><img class="flag" src="/images/flag_<?php echo $ln ?>.png" alt="<?php echo strtoupper($ln ) ?>" /></button>
+  <button type="button" class="btn btn-default dropdown-toggle" style="height: 31px; padding: 4px;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="caret"></span>
+    <span class="sr-only">Toggle Dropdown</span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a href="?lang=en" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_en.png" alt="UK" /><span style="margin-top: 2px;">English</span></a></li>
+    <li><a href="?lang=bg" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_bg.png" alt="BG" /><span style="margin-top: 2px;">Български</span></a></li>
+<!--    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_ru.png" alt="RU" /><span style="margin-top: 2px;">Русский</span></a></li>
+    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_es.png" alt="ES" /><span style="margin-top: 2px;">Español</span></a></li>
+    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_it.png" alt="IT" /><span style="margin-top: 2px;">Italiano</span></a></li>
+    <li><a href="?lang=gr" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_gr.png" alt="GR" /><span style="margin-top: 2px;">Ελληνικά</span></a></li>
+    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_fr.png" alt="FR" /><span style="margin-top: 2px;">Français</span></a></li>
+    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_de.png" alt="DE" /><span style="margin-top: 2px;">Deutsch</span></a></li>-->
+  </ul>
+</div>
+
+                            </li>
                             <li><a href="https://www.facebook.com/caeli.engineering/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                         </ul>
