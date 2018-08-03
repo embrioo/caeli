@@ -1,4 +1,4 @@
-<?php 
+<?php
 $lang['en']['logo-text'] = "Caeli Engineering";
 $lang['en']['logo-text-2'] = "Innovative technology";
 
@@ -69,13 +69,14 @@ $lang['en']['principle-type2-span-text-1'] = "2nd";
 $lang['en']['principle-type2-span-text-2'] = "Water";
 $lang['en']['principle-type2-span-text-3'] = "Cyclone";
 $lang['en']['principle-type3-span-text-1'] = "3rd";
+$lang['en']['principle-type3-span-text-2'] = "";
 $lang['en']['principle-type3-span-text-3'] = "Cyclone";
 $lang['en']['principle-paragraph-text-1'] = "The air rotates with a very high speed between the outer wall of the filter and the first inner wall.";
 $lang['en']['principle-paragraph-text-1-1'] = "The heavy and rough mechanical particles/pollutants are absorbed by the centrifugal force and then put under the water.";
 $lang['en']['principle-paragraph-text-2'] = "The air that no longer has rough mechanical particles makes passage under the water while entering the second container.";
 $lang['en']['principle-paragraph-text-3'] = "The second container is placed inside of the first container, and assures fast upward spinning for all fine particles filtration.";
 $lang['en']['principle-paragraph-text-4'] = "All the bacteria, microbes, aroma particles, chemicals, and the finest mechanical ones are finally captured here.";
-//$lang['en']['principle-paragraph-text-5'] = "The air flows out of the filter at a high speed, also  causing water vortex.";
+$lang['en']['principle-paragraph-text-5'] = "";
 $lang['en']['principle-paragraph-text-6'] = "The air enters the 3rd cyclone where the moisture is taken out from the air.";
 $lang['en']['principle-paragraph-text-7'] = "The outlet air moisture is  back to normal level at 50-70%.";
 $lang['en']['principle-particle-span-text-1'] = "Capture";

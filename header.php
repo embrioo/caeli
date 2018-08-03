@@ -25,27 +25,26 @@
                     <div class="col-sm-8">
                         <ul class="contact-us list-unstyled list-inline">
                             <li>
-<div class="btn-group">
-  <button type="button" class="btn btn-default" style="padding: 4px;"><img class="flag" src="/images/flag_<?php echo $ln ?>.png" alt="<?php echo strtoupper($ln ) ?>" /></button>
-  <button type="button" class="btn btn-default dropdown-toggle" style="height: 31px; padding: 4px;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    <span class="caret"></span>
-    <span class="sr-only">Toggle Dropdown</span>
-  </button>
-  <ul class="dropdown-menu">
-    <li><a href="?lang=en" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_en.png" alt="UK" /><span style="margin-top: 2px;">English</span></a></li>
-    <li><a href="?lang=bg" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_bg.png" alt="BG" /><span style="margin-top: 2px;">Български</span></a></li>
-<!--    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_ru.png" alt="RU" /><span style="margin-top: 2px;">Русский</span></a></li>
-    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_es.png" alt="ES" /><span style="margin-top: 2px;">Español</span></a></li>
-    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_it.png" alt="IT" /><span style="margin-top: 2px;">Italiano</span></a></li>
-    <li><a href="?lang=gr" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_gr.png" alt="GR" /><span style="margin-top: 2px;">Ελληνικά</span></a></li>
-    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_fr.png" alt="FR" /><span style="margin-top: 2px;">Français</span></a></li>
-    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_de.png" alt="DE" /><span style="margin-top: 2px;">Deutsch</span></a></li>-->
-  </ul>
-</div>
-
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-default" style="padding: 4px;"><img class="flag" src="/images/flag_<?php echo $ln ?>.png" alt="<?php echo strtoupper($ln ) ?>" /></button>
+                                    <button type="button" class="btn btn-default dropdown-toggle" style="height: 31px; padding: 4px;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span class="caret"></span>
+                                        <span class="sr-only">Toggle Dropdown</span>
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="?lang=en" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_en.png" alt="UK" /><span style="margin-top: 2px;">English</span></a></li>
+                                        <li><a href="?lang=bg" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_bg.png" alt="BG" /><span style="margin-top: 2px;">Български</span></a></li>
+                                        <li><a href="?lang=gr" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_gr.png" alt="GR" /><span style="margin-top: 2px;">Ελληνικά</span></a></li>
+                                        <!--    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_ru.png" alt="RU" /><span style="margin-top: 2px;">Русский</span></a></li>
+                                            <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_es.png" alt="ES" /><span style="margin-top: 2px;">Español</span></a></li>
+                                            <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_it.png" alt="IT" /><span style="margin-top: 2px;">Italiano</span></a></li>
+                                            <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_fr.png" alt="FR" /><span style="margin-top: 2px;">Français</span></a></li>
+                                            <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_de.png" alt="DE" /><span style="margin-top: 2px;">Deutsch</span></a></li>-->
+                                    </ul>
+                                </div>
                             </li>
-                            <li><a href="https://www.facebook.com/caeli.engineering/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                            <li class="mobilehidden"><a href="https://www.facebook.com/caeli.engineering/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li class="mobilehidden"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                         </ul>
                         <div class="navigation-box">
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsemenu">
@@ -87,7 +86,7 @@
                                                 <li><a href="./tech-specification.php?caeli=spec1"><?php echo $current_lang['nav-tech-dropdown-text-6'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec2"><?php echo $current_lang['nav-tech-dropdown-text-7'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['nav-tech-dropdown-text-8'] ?></a></li>
-                                                <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['nav-tech-dropdown-text-12'] ?></a></li>                            
+                                                <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['nav-tech-dropdown-text-12'] ?></a></li>
                                                 <li><a href="./stand-alone-800.php"><?php echo $current_lang['nav-tech-dropdown-text-1.2'] ?></a></li>
                                                 <li><a href="./stand-alone-1100.php"><?php echo $current_lang['nav-tech-dropdown-text-1.3'] ?></a></li>
                                                 <li><a href="./vs-scrubbers.php"><?php echo $current_lang['nav-tech-dropdown-text-10'] ?></a></li>
@@ -98,7 +97,7 @@
                                                 <li><a href="./tech-specification.php?caeli=spec1"><?php echo $current_lang['nav-tech-dropdown-text-6'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec2"><?php echo $current_lang['nav-tech-dropdown-text-7'] ?></a></li>
                                                 <li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['nav-tech-dropdown-text-8'] ?></a></li>
-                                                <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['nav-tech-dropdown-text-12'] ?></a></li>                            
+                                                <li><a href="./tech-specification.php?caeli=spec4"><?php echo $current_lang['nav-tech-dropdown-text-12'] ?></a></li>
                                                 <li><a href="./stand-alone-800.php"><?php echo $current_lang['nav-tech-dropdown-text-1.2'] ?></a></li>
                                                 <li><a href="./stand-alone-1100.php"><?php echo $current_lang['nav-tech-dropdown-text-1.3'] ?></a></li>
                                                 <li><a href="./vs-scrubbers.php"><?php echo $current_lang['nav-tech-dropdown-text-10'] ?></a></li>
@@ -109,8 +108,8 @@
                                     <li class="hidden"><a href="#"><?php echo $current_lang['nav-text-4'] ?></a></li>
                                     <li><a href="contact-us.php"><?php echo $current_lang['nav-text-5'] ?></a></li>
                                 </ul>
-                            </div>                    
-                        </div>                
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

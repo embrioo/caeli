@@ -1,4 +1,4 @@
-<?php 
+<?php
     $page_title = 'Vs-scrubbers';
     $class_wrapper = 'scrubbers-page';
     require  'init.php';
@@ -30,7 +30,7 @@
 								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc1'] ?></p></li>
 								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc2'] ?></p></li>
                                 <li><p><?php echo $current_lang['scrubbers-comp1_flt_desc3'] ?></p></li>
-								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc4'] ?></p></li>
+<!--								<li><p><?php echo $current_lang['scrubbers-comp1_flt_desc4'] ?></p></li>-->
 							</ul>
 						</div>
 					</div>
@@ -117,4 +117,3 @@
 	</section>
 </main>
 <?php include 'footer.php' ?>
-		

@@ -1,5 +1,4 @@
 <?php
-
 define('ROOT_PATH', realpath(dirname(__FILE__)));
 define('PUBLIC_PATH', '/');
 //echo ROOT_PATH;die;
@@ -29,5 +28,5 @@ include $lang_file;
 $current_lang = $lang[$ln];
 include 'head.php';
 ?>
-    <div class="<?php echo $class_wrapper; ?> wrapper">    
-    <?php include 'header.php'; ?>    
+    <div class="<?php echo $class_wrapper; ?> wrapper">
+    <?php include 'header.php'; ?>

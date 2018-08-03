@@ -1,5 +1,5 @@
-<?php 
-$lang['bg']['logo-text'] = "Caeli-Engineering LLC";
+<?php
+$lang['bg']['logo-text'] = "Caeli Engineering";
 $lang['bg']['logo-text-2'] = "Innovative Technology";
 
 $lang['bg']['nav-text-1'] = "Приложения";
