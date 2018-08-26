@@ -1,4 +1,4 @@
-<?php 
+<?php
     $page_title = 'Contact us';
     $class_wrapper = 'contact-us';
     require  'init.php';
@@ -100,7 +100,7 @@
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
                     <h3 class="page-title text-center"><?php echo $current_lang['contact-page-title'] ?></h3>
-                    <div class="row leaders">                        
+                    <div class="row leaders">
                         <div class="col-sm-6 col-sm-push-6">
                             <div class="right-side">
                                 <div class="img-box"><img alt="" src="./images/Rennie-pic.png"></div>
@@ -119,11 +119,11 @@
                                     <li><a href="#">+359 899 98 74 05</a></li>
                                     <li><p><?php echo $current_lang['contact-lbl_skype'] ?>:   rennie.embrioo</p></li>
                                 </ul>
-                            </div>                                            
+                            </div>
                         </div>
                         <div class="col-sm-6 col-sm-pull-6">
                             <div class="left-side">
-                                <div class="img-box"><img alt="" src="./images/Atanas-pic.png"></div>
+                                <div class="img-box"><img alt="" src="./images/Boyan-pic.jpg"></div>
                                 <h4><?php echo $current_lang['contact-member4_name'] ?></h4>
                                 <ul class="list-unstyled info-list">
                                     <li><p><?php echo $current_lang['contact-member4_pos'] ?></p></li>
@@ -133,13 +133,13 @@
                                            <li><p><?php echo $current_lang['contact-member4_reg2'] ?></p></li>
                                            <li><p><?php echo $current_lang['contact-member4_reg3'] ?></p></li>
                                            <li><p><?php echo $current_lang['contact-member4_reg4'] ?></p></li>
-                                       </ul> 
+                                       </ul>
                                     </li>
-                                    <li><a href="mailto:atanas.galchev@caeli-engineering.com">atanas.galchev@caeli-engineering.com</a></li>
-                                    <li><a href="#">+359 886 86 86 68</a></li>
-                                    <li><p><?php echo $current_lang['contact-lbl_skype'] ?>:   atanas.galchev</p></li>
+                                    <li><a href="mailto:atanas.galchev@caeli-engineering.com">boyan.petkov@caeli-engineering.com</a></li>
+                                    <li><a href="#">+359 899 99 05 32</a></li>
+                                    <li><p><?php echo $current_lang['contact-lbl_skype'] ?>:   </p></li>
                                 </ul>
-                            </div>                                            
+                            </div>
                         </div>
                     </div>
 <div class="hidden">
@@ -246,7 +246,6 @@
             </div>
         </div>
     </section>
-<!-- Team -->			
+<!-- Team -->
 </main>
 <?php include 'footer.php' ?>
-		

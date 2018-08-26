@@ -8,8 +8,10 @@ define('ROOT_PATH', realpath(dirname(__FILE__)));
 //    require  'init.php';
 
     $allowed = array(
+        'e19acae2e16e0503a7de23a3f2a3b0e6' => array( 'code' => 'rennie', 'user' => 'Rennie', 'lang' => 'en' ),
         'c077d74de839adcb6d37d81c3fae5fd5' => array( 'code' => 'mkdgo', 'user' => 'Mitko', 'lang' => 'bg' ),
         '0089a5a9b852d02e6e4a37af12aa7091' => array( 'code' => 'radostina', 'user' => 'Radostina', 'lang' => 'gr' ),
+        'ed8635609cb77517a508a9bafcbf3389' => array( 'code' => 'sunni', 'user' => 'Sunni', 'lang' => 'ru' ),
     );
     if( isset($_GET['unset']) ) {
         unsetCookies();
