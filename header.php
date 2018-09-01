@@ -104,6 +104,25 @@
                                             </ul>
                                         </div>
                                     </li>
+
+
+                                    <li class="nav-item dropdown">
+                                        <a  class="nav-link dropdown-toggle" id="homelist" data-toggle="collapse" aria-haspopup="true" aria-expanded="false" href="#mobile-collapse-nav2"><?php echo $current_lang['nav-text-6'] ?><i class="fa fa-chevron-down ham-inner-arrow" aria-hidden="true"></i></a>
+                                        <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                                        <div class="dropdown-menu" aria-labelledby="techlist">
+                                            <ul class="list-unstyled">
+                                                <li><a href="./stand-alone-400.php"><?php echo $current_lang['nav-tech-dropdown-text-13'] ?></a></li>
+                                            </ul>
+                                        </div>
+                                        <div id="mobile-collapse-nav3" class="collapse">
+                                            <ul class="list-unstyled">
+                                                <li><a href="./stand-alone-400.php"><?php echo $current_lang['nav-tech-dropdown-text-13'] ?></a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+
+
+
                                     <li class="hidden"><a href="clients.php"><?php echo $current_lang['nav-text-3'] ?></a></li>
                                     <li class="hidden"><a href="#"><?php echo $current_lang['nav-text-4'] ?></a></li>
                                     <li><a href="contact-us.php"><?php echo $current_lang['nav-text-5'] ?></a></li>

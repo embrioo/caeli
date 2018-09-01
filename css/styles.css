@@ -165,6 +165,10 @@ main {
 }
 .specification-page .banner ,
 .stand-alone800-page .banner {
+    background: url(../images/specification-banner.png) no-repeat center;
+    background-size: cover;
+}
+.stand-alone400-page .banner {
 	background: url(../images/specification-banner.png) no-repeat center;
     background-size: cover;
 }

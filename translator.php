@@ -8,14 +8,11 @@ define('ROOT_PATH', realpath(dirname(__FILE__)));
 //    require  'init.php';
 
     $allowed = array(
-        'e19acae2e16e0503a7de23a3f2a3b0e6' => array( 'code' => 'rennie', 'user' => 'Rennie', 'lang' => 'en' ),
+        'e19acae2e16e0503a7de23a3f2a3b0e6' => array( 'code' => 'renniemitko', 'user' => 'Rennie', 'lang' => 'en' ),
         'c077d74de839adcb6d37d81c3fae5fd5' => array( 'code' => 'mkdgo', 'user' => 'Mitko', 'lang' => 'bg' ),
         '0089a5a9b852d02e6e4a37af12aa7091' => array( 'code' => 'radostina', 'user' => 'Radostina', 'lang' => 'gr' ),
-        'ed8635609cb77517a508a9bafcbf3389' => array( 'code' => 'sunni', 'user' => 'Sunni', 'lang' => 'ru' ),
+        'ed8635609cb77517a508a9bafcbf3389' => array( 'code' => 'sunni2018', 'user' => 'Sunni', 'lang' => 'ru' ),
     );
-    if( isset($_GET['unset']) ) {
-        unsetCookies();
-    }
 
     $from_file_name = 'lang_bg.php';
     $cookie_name = 'allowed_code';
@@ -24,6 +21,10 @@ define('ROOT_PATH', realpath(dirname(__FILE__)));
     $allowed_lang = '';
     $to_file_name = '';
     $html = '';
+    if( isset($_GET['unset']) ) {
+        unsetCookies();
+        unset($_COOKIE[$cookie_name]);
+    }
 if( isset($_COOKIE[$cookie_name]) ) {
     $allowed_code = $_COOKIE[$cookie_name];
     $allowed_user = 'Hi '.$allowed[$_COOKIE[$cookie_name]]['user'];
@@ -77,12 +78,23 @@ if( isset($_COOKIE[$cookie_name]) ) {
 
         $lang_text = $lang[$target_lang];
         $html .= '<table class="table-striped" style="width: 100%">';
+
+//echo '<pre>';var_dump( $basic_txt_language );die;
+$p_tr = '';
         foreach($basic_txt_language as $k => $v) {
-            $html .= '<tr><td style="width: 50%;padding: 5px;">'.$v.'</td><td><textarea style="width: 100%" name="keys['.$k.']">'.$lang_text[$k].'</textarea></td></tr>';
+            $p_temp = explode('-',$k);
+//echo '<pre>';var_dump( $p_temp );//die;
+            $p = $p_temp[0];
+            if( $p != $p_tr ) {
+                $p_tr = $p;
+                $html .= '<tr><td colspan="3" style="background: #aaa; color: #fff; padding: 5px;">page - '.strtoupper($p_tr).'</td></tr>';
+            }
+            $html .= '<tr><td style="width: 20%;">'.str_replace($p_tr, '',$k).'</td><td style="width: 30%;padding: 5px;">'.$v.'</td><td><textarea style="width: 100%" name="keys['.$k.']">'.$lang_text[$k].'</textarea></td></tr>';
         }
 
         $html .= '</table>';
         $html .= '<div class="row"><div style="width: 100px; margin: 50px auto;" class="col-xs-12 col-sm-3 text-center pull-right"><input type="submit" value="Save" name="save" style="padding: 5px 20px; border-radius:5px;" id="save" /></div></div>';
+//die;
         return $html;
     }
 
@@ -143,7 +155,7 @@ mb_internal_encoding("UTF-8");
                     <?php else: ?>
 
 					<div class="row">
-                        <h1 class="page-title"><?php echo $allowed_user ?></h1>
+                        <h1 class="page-title"><?php echo $allowed_user ?> <a href="/translator.php?unset=1">Log out</a></h1>
                         <h2>Translate to <?php echo strtoupper($allowed_lang) ?></h2>
                         <div class="col-sm-12">
                             <form id="form_langs" name="form_langs" method="POST" action="/translator.php">
