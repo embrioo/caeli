@@ -51,7 +51,6 @@ if( isset($_COOKIE[$cookie_name]) ) {
 //var_dump($_COOKIE);
     }
 }
-
     function load_file($source, $target_lang) {
         $html = '';
 
@@ -81,15 +80,20 @@ if( isset($_COOKIE[$cookie_name]) ) {
 
 //echo '<pre>';var_dump( $basic_txt_language );die;
 $p_tr = '';
+$class = '';
         foreach($basic_txt_language as $k => $v) {
             $p_temp = explode('-',$k);
 //echo '<pre>';var_dump( $p_temp );//die;
             $p = $p_temp[0];
             if( $p != $p_tr ) {
+                $row = 0;
+
                 $p_tr = $p;
-                $html .= '<tr><td colspan="3" style="background: #aaa; color: #fff; padding: 5px;">page - '.strtoupper($p_tr).'</td></tr>';
+                $class = '_'.strtolower($p);
+                $html .= '<tr><td colspan="3" style="background: #aaa; color: #fff; padding: 5px; border-bottom: 1px solid #fff;">page - '.strtoupper($p_tr).' <span style="float: right;" onclick="togglePage(\''.$class.'\')">show/hide page</span></td></tr>';
             }
-            $html .= '<tr><td style="width: 20%;">'.str_replace($p_tr, '',$k).'</td><td style="width: 30%;padding: 5px;">'.$v.'</td><td><textarea style="width: 100%" name="keys['.$k.']">'.$lang_text[$k].'</textarea></td></tr>';
+            $html .= '<tr class="'.$class.'" style="display: none;"><td style="width: 20%;">'.str_replace($p_tr, '',$k).'</td><td style="width: 30%;padding: 5px;">'.$v.'</td><td><textarea style="width: 100%" name="keys['.$k.']">'.$lang_text[$k].'</textarea></td></tr>';
+$row++;
         }
 
         $html .= '</table>';
@@ -172,5 +176,11 @@ mb_internal_encoding("UTF-8");
     <script type="text/javascript" src="./js/jquery.1.12.1.min.js"></script>
     <script type="text/javascript" src="./js/bootstrap.js"></script>
     <script type="text/javascript" src="./js/main.js"></script>
+	<script type="text/javascript">
+		setTimeout(function(){ alert("Hello. You will lose the session in 10 sec! Pleace save."); }, 3000*20*3);
+        function togglePage(p) {
+            $('.'+p).toggle();
+        }
+	</script>
 </body>
 </html>

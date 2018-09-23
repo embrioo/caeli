@@ -35,8 +35,8 @@
                                         <li><a href="?lang=en" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_en.png" alt="UK" /><span style="margin-top: 2px;">English</span></a></li>
                                         <li><a href="?lang=bg" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_bg.png" alt="BG" /><span style="margin-top: 2px;">Български</span></a></li>
                                         <li><a href="?lang=gr" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_gr.png" alt="GR" /><span style="margin-top: 2px;">Ελληνικά</span></a></li>
-                                        <!--    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_ru.png" alt="RU" /><span style="margin-top: 2px;">Русский</span></a></li>
-                                            <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_es.png" alt="ES" /><span style="margin-top: 2px;">Español</span></a></li>
+                                        <li><a href="?lang=ru" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_ru.png" alt="RU" /><span style="margin-top: 2px;">Русский</span></a></li>
+                                         <!--    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_es.png" alt="ES" /><span style="margin-top: 2px;">Español</span></a></li>
                                             <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_it.png" alt="IT" /><span style="margin-top: 2px;">Italiano</span></a></li>
                                             <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_fr.png" alt="FR" /><span style="margin-top: 2px;">Français</span></a></li>
                                             <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_de.png" alt="DE" /><span style="margin-top: 2px;">Deutsch</span></a></li>-->
@@ -112,11 +112,13 @@
                                         <div class="dropdown-menu" aria-labelledby="techlist">
                                             <ul class="list-unstyled">
                                                 <li><a href="./stand-alone-400.php"><?php echo $current_lang['nav-tech-dropdown-text-13'] ?></a></li>
+                                                <li><a href="./stand-alone-600.php"><?php echo $current_lang['nav-tech-dropdown-text-14'] ?></a></li>
                                             </ul>
                                         </div>
                                         <div id="mobile-collapse-nav3" class="collapse">
                                             <ul class="list-unstyled">
                                                 <li><a href="./stand-alone-400.php"><?php echo $current_lang['nav-tech-dropdown-text-13'] ?></a></li>
+                                                <li><a href="./stand-alone-600.php"><?php echo $current_lang['nav-tech-dropdown-text-14'] ?></a></li>
                                             </ul>
                                         </div>
                                     </li>
