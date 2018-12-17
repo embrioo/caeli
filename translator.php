@@ -12,9 +12,10 @@ define('ROOT_PATH', realpath(dirname(__FILE__)));
         'c077d74de839adcb6d37d81c3fae5fd5' => array( 'code' => 'mkdgo', 'user' => 'Mitko', 'lang' => 'bg' ),
         '0089a5a9b852d02e6e4a37af12aa7091' => array( 'code' => 'radostina', 'user' => 'Radostina', 'lang' => 'gr' ),
         'ed8635609cb77517a508a9bafcbf3389' => array( 'code' => 'sunni2018', 'user' => 'Sunni', 'lang' => 'ru' ),
+        'bf4dda3a3700e02ebe61c634588c43b8' => array( 'code' => 'french2018', 'user' => 'French', 'lang' => 'fr' ),
     );
 
-    $from_file_name = 'lang_bg.php';
+    $from_file_name = 'lang_en.php';
     $cookie_name = 'allowed_code';
     $allowed_code = 0;
     $allowed_user = '';
@@ -56,7 +57,7 @@ if( isset($_COOKIE[$cookie_name]) ) {
 
         $from_file =  ROOT_PATH . '/' . $source;
         include $from_file;
-        $basic_txt_language = $lang['bg'];
+        $basic_txt_language = $lang['en'];
         unset($lang);
 
         $to_file_name = 'lang_'.$target_lang.'.php';
@@ -90,7 +91,7 @@ $class = '';
 
                 $p_tr = $p;
                 $class = '_'.strtolower($p);
-                $html .= '<tr><td colspan="3" style="background: #aaa; color: #fff; padding: 5px; border-bottom: 1px solid #fff;">page - '.strtoupper($p_tr).' <span style="float: right;" onclick="togglePage(\''.$class.'\')">show/hide page</span></td></tr>';
+                $html .= '<tr><td colspan="3" style="background: #aaa; color: #fff; padding: 5px; border-bottom: 1px solid #fff;">page - '.strtoupper($p_tr).' <span style="float: right; cursor: pointer;" onclick="togglePage(\''.$class.'\')">show/hide page</span></td></tr>';
             }
             $html .= '<tr class="'.$class.'" style="display: none;"><td style="width: 20%;">'.str_replace($p_tr, '',$k).'</td><td style="width: 30%;padding: 5px;">'.$v.'</td><td><textarea style="width: 100%" name="keys['.$k.']">'.$lang_text[$k].'</textarea></td></tr>';
 $row++;
