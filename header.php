@@ -36,9 +36,9 @@
                                         <li><a href="?lang=bg" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_bg.png" alt="BG" /><span style="margin-top: 2px;">Български</span></a></li>
                                         <li><a href="?lang=gr" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_gr.png" alt="GR" /><span style="margin-top: 2px;">Ελληνικά</span></a></li>
                                         <li><a href="?lang=ru" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_ru.png" alt="RU" /><span style="margin-top: 2px;">Русский</span></a></li>
+                                        <li><a href="?lang=fr" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_fr.png" alt="FR" /><span style="margin-top: 2px;">Français</span></a></li>
                                          <!--    <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_es.png" alt="ES" /><span style="margin-top: 2px;">Español</span></a></li>
                                             <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_it.png" alt="IT" /><span style="margin-top: 2px;">Italiano</span></a></li>
-                                            <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_fr.png" alt="FR" /><span style="margin-top: 2px;">Français</span></a></li>
                                             <li><a href="#" style="padding: 2px 5px; font-size: 14px;"><img class="flag" src="/images/flag_de.png" alt="DE" /><span style="margin-top: 2px;">Deutsch</span></a></li>-->
                                     </ul>
                                 </div>

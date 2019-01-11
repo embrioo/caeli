@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 $lang["en"]["logo-text"] = "Caeli Engineering";
 $lang["en"]["logo-text-2"] = "Innovative technology";
@@ -115,7 +115,7 @@ $lang["en"]["clients-texts-box1_p2"] = "Two filters are installed to completely 
 $lang["en"]["clients-rating-box"] = "Social and environmental responsibility";
 $lang["en"]["clients-texts-box2_h4"] = "Panaceya, Bulgaria ┃ Bio-Pharma and Food additives";
 $lang["en"]["clients-texts-box2_p1"] = "Leading local producer of bio-cosmetics and bio-based food additives";
-$lang["en"]["clients-texts-box2_p2"] = "One filter is installed to completely clean the outlet air and the air which is going out of the factory. The filter is cleaning the air in the R&D lab where healthy mixtures of herbs and special plants are combined fore new products\\\\\\\\\\\\\' recipes.";
+$lang["en"]["clients-texts-box2_p2"] = "One filter is installed to completely clean the outlet air and the air which is going out of the factory. The filter is cleaning the air in the R&D lab where healthy mixtures of herbs and special plants are combined fore new products\\\\\\\\\\\\\\\' recipes.";
 $lang["en"]["clients-texts-box3_h4"] = "SofLab, Bulgaria ┃ Our Partner in R&D Labs distribution channels";
 $lang["en"]["clients-texts-box3_p1"] = "SofLab Ltd. is a leading company specialized in the field of laboratory equipment – supply of laboratory consumables, equipment and furniture, professional consultations and implementation.";
 $lang["en"]["clients-texts-box3_p2"] = "Soflab has implemented projects for complete design and furnishing of physical, chemical, and microbiological laboratories for companies like Megle, Tomil Herb Ltd., Milkyex, Nova Trade, The Coca-Cola company, Prista Oil, Limex Ltd, Phytopharma, Faculty of Chemistry, Telish Winery, Carlsberg Bulgaria, Actavis, Holcim, Amylum Bulgaria, Verila Lubricants, Solvex – Cosmetic Products, and others.";
@@ -184,13 +184,12 @@ $lang["en"]["industries-ul5_li1"] = "Train wagons";
 $lang["en"]["industries-ul5_li2"] = "Ships and Ferries";
 $lang["en"]["stand-alone-page-title"] = "Stand-alone";
 $lang["en"]["stand-alone-page-title2"] = "(mobile) option";
-$lang["en"]["stand-alone-intro-text"] = "The same <a href=\\\\\\\\\\\\\'/working-principle.php?#wpht\\\\\\\\\\\\\' style=\\\\\\\\\\\\\'color: #98ADBB; font-size: 18px;\\\\\\\\\\\\\' title=\\\\\\\\\\\\\'Working Principle\\\\\\\\\\\\\'>fundamental Caeli technology</a> applies to Stand-alone (mobile) filters.";
-$lang["en"]["stand-alone-intro-text2"] = "What is the difference between Built-in and Stand-alone? Stand-alone filters work with <strong style=\\\\\\\\\\\\\'font-size: 18px;\\\\\\\\\\\\\'>own</strong> turbine and electric motor.";
+$lang["en"]["stand-alone-intro-text"] = "The same <a href=\\\\\\\\\\\\\\\'/working-principle.php?#wpht\\\\\\\\\\\\\\\' style=\\\\\\\\\\\\\\\'color: #98ADBB; font-size: 18px;\\\\\\\\\\\\\\\' title=\\\\\\\\\\\\\\\'Working Principle\\\\\\\\\\\\\\\'>fundamental Caeli technology</a> applies to Stand-alone (mobile) filters.";
+$lang["en"]["stand-alone-intro-text2"] = "What is the difference between Built-in and Stand-alone? Stand-alone filters work with <strong style=\\\\\\\\\\\\\\\'font-size: 18px;\\\\\\\\\\\\\\\'>own</strong> turbine and electric motor.";
 $lang["en"]["stand-alone-p1-txt"] = "The air flows into the filter thanks to a turbine and an electric motor which are located at the outlet of the filter. The turbine and the electrical motor are assembled into a common compact device.";
 $lang["en"]["stand-alone-p2-txt"] = "Contaminated water is drained either manually or via sewerage (with a connection between the filter and the sewer) - an individual solution depending on the type of the pollutant and the infrastructural features of the premises.";
 $lang["en"]["stand-alone-p3-txt"] = "Hepa Filter is installed at the outlet to regulate the outlet air jet, otherwise the jet of already clean air will go out  of the filter under high pressure.";
 $lang["en"]["stand-alone-p4-txt"] = "2 options - for stationary, permanent space positioning or for flexibility in moving the filter around the space (by fitting wheels).";
-
 $lang["en"]["spec400hsa-page-title"] = "Technical Specification";
 $lang["en"]["spec400hsa-page-end-title"] = "Want to check built-in options?";
 $lang["en"]["spec400hsa-btn_f800"] = "Caeli 800";
@@ -245,7 +244,6 @@ $lang["en"]["spec400hsa-f400_prop20_lbl"] = "Durability:";
 $lang["en"]["spec400hsa-f400_prop20_val"] = "10-15 Years";
 $lang["en"]["spec400hsa-f400_prop21_lbl"] = "Environment friendly:";
 $lang["en"]["spec400hsa-f400_prop21_val"] = "Yes";
-
 $lang["en"]["spec600hsa-page-title"] = "Technical Specification";
 $lang["en"]["spec600hsa-page-end-title"] = "Want to check built-in options?";
 $lang["en"]["spec600hsa-btn_f800"] = "Caeli 800";
@@ -300,7 +298,6 @@ $lang["en"]["spec600hsa-f600_prop20_lbl"] = "Durability:";
 $lang["en"]["spec600hsa-f600_prop20_val"] = "10-15 Years";
 $lang["en"]["spec600hsa-f600_prop21_lbl"] = "Environment friendly:";
 $lang["en"]["spec600hsa-f600_prop21_val"] = "Yes";
-
 $lang["en"]["specification-page-title"] = "Technical Specification";
 $lang["en"]["specification-page-end-title"] = "Want to check other options?";
 $lang["en"]["specification-sa-page-end-title"] = "Want to check built-in options?";
@@ -573,6 +570,6 @@ $lang["en"]["footer-link-text-9"] = "Clients & Partners";
 $lang["en"]["footer-link-text-10"] = "Contact us";
 $lang["en"]["footer-link-text-11"] = "Caeli Stand-alone - 800";
 $lang["en"]["footer-link-text-12"] = "Caeli Stand-alone - 1100";
-$lang["en"]["footer-link-text-13"] = "Working principle (Stand-alone)";
+$lang["en"]["footer-link-text-13"] = "Principe de fonctionnement (autonome)";
 $lang["en"]["footer-copyright-text"] = "© 2018 All rights reserved. Caeli Engineering LLC";
 ?>
