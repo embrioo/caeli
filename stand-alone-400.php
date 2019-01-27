@@ -17,7 +17,7 @@
 			<div class="row">
 				<div class="col-lg-10 col-lg-offset-1">
 					<div class="row">
-						<h3 class="page-title"><?php echo $current_lang['spec400hsa-page-title'] ?></h3>
+						<h3 class="page-title"><?php echo $current_lang['spec400hsa-page-title'] ?>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>EUR 255 | BGN 499</strong></h3>
 						<div id="spec1" class="tab-pane active" style="margin-bottom: 50px;">
 							<div class="container">
 								<div class="row">
@@ -72,7 +72,7 @@
 						</div>
 
                         <div class="ordering-box">
-                            <a class="order-now-button" href="https://www.facebook.com/pg/caeli.engineering/shop/?ref=page_internal" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
+                            <a class="order-now-button" href="<?php echo $fb_shop_link ?>" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
                             <a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
                         </div>
                         <h3 class="page-title"><?php echo $current_lang['spec400hsa-page-end-title'] ?></h3>

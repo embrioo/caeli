@@ -4,7 +4,7 @@
 				    <div class="col-lg-10 col-lg-offset-1">
 					    <div class="row">
 						    <div class="col-sm-4">
-							    <ul class="list-unstyled">								
+							    <ul class="list-unstyled">
 								    <li><a href="./tech-specification.php?caeli=spec1"><?php echo $current_lang['footer-link-text-1'] ?></a></li>
 								    <li><a href="./tech-specification.php?caeli=spec2"><?php echo $current_lang['footer-link-text-2'] ?></a></li>
 								    <li><a href="./tech-specification.php?caeli=spec3"><?php echo $current_lang['footer-link-text-3'] ?></a></li>
@@ -19,16 +19,16 @@
 								    <li><a href="./tech-description.php"><?php echo $current_lang['footer-link-text-6'] ?></a></li>
                                     <li><a href="./working-principle.php"><?php echo $current_lang['footer-link-text-7'] ?></a></li>
 								    <li><a href="./stand-alone.php"><?php echo $current_lang['footer-link-text-13'] ?></a></li>
-								    <li><a href="./vs-scrubbers.php"><?php echo $current_lang['footer-link-text-8'] ?></a></li>								
+								    <li><a href="./vs-scrubbers.php"><?php echo $current_lang['footer-link-text-8'] ?></a></li>
 							    </ul>
 						    </div>
 						    <div class="col-sm-4">
-							    <ul class="list-unstyled">								
+							    <ul class="list-unstyled">
 								    <li><a href="./clients.php"><?php echo $current_lang['footer-link-text-9'] ?></a></li>
 								    <li><a href="./contact-us.php"><?php echo $current_lang['footer-link-text-10'] ?></a></li>
 								    <li class="social-icons">
 									    <ul class="list-inline">
-										    <li><a href="https://www.facebook.com/caeli.engineering/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+										    <li><a href="<?php echo $fb_home_link ?>" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
 										    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
 									    </ul>
 								    </li>

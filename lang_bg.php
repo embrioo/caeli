@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 $lang["bg"]["logo-text"] = "Caeli Engineering";
 $lang["bg"]["logo-text-2"] = "Innovative Technology";
@@ -7,7 +7,7 @@ $lang["bg"]["nav-text-2"] = "Технически Спецификации";
 $lang["bg"]["nav-text-3"] = "Клиенти";
 $lang["bg"]["nav-text-4"] = "FAQ";
 $lang["bg"]["nav-text-5"] = "Контакти";
-$lang["bg"]["nav-text-6"] = "Home";
+$lang["bg"]["nav-text-6"] = "За дома";
 $lang["bg"]["nav-tech-dropdown-text-1"] = "Принцип на работа (Stand-alone)";
 $lang["bg"]["nav-tech-dropdown-text-1.2"] = "Caeli Stand-alone - 800";
 $lang["bg"]["nav-tech-dropdown-text-1.3"] = "Caeli Stand-alone - 1100";
@@ -42,7 +42,7 @@ $lang["bg"]["advantage-span-text-1"] = "Самопочистваща функц�
 $lang["bg"]["advantage-span-text-2"] = "(Полу-автоматично или Автоматично)";
 $lang["bg"]["advantage-span-text-3"] = "2 Сертифицирани лаборатории";
 $lang["bg"]["advantage-span-text-4"] = "отчитат 99.3% - 99.9% улавяемост";
-$lang["bg"]["innovative-heading"] = "<span style=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'font-family: Arial; font-style: normal; font-size: 36px;\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'>Нашата иновативна технология</span>";
+$lang["bg"]["innovative-heading"] = "<span style=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'font-family: Arial; font-style: normal; font-size: 36px;\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'>Нашата иновативна технология</span>";
 $lang["bg"]["innovative-text-1"] = "Принцип на работа";
 $lang["bg"]["innovative-text-2"] = "Технически Спецификации";
 $lang["bg"]["innovative-text-3"] = "Технически детайли";
@@ -115,7 +115,7 @@ $lang["bg"]["clients-texts-box1_p2"] = "2 филтъра са монтирани
 $lang["bg"]["clients-rating-box"] = "Social and environmental responsibility";
 $lang["bg"]["clients-texts-box2_h4"] = "Panaceya, Bulgaria ┃ Bio-Pharma and Food additives";
 $lang["bg"]["clients-texts-box2_p1"] = "Leading local producer of bio-cosmetics and bio-based food additives";
-$lang["bg"]["clients-texts-box2_p2"] = "One filter is installed to completely clean the outlet air and the air which is going out of the factory. The filter is cleaning the air in the R&D lab where healthy mixtures of herbs and special plants are combined fore new products\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\' recipes.";
+$lang["bg"]["clients-texts-box2_p2"] = "One filter is installed to completely clean the outlet air and the air which is going out of the factory. The filter is cleaning the air in the R&D lab where healthy mixtures of herbs and special plants are combined fore new products\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\' recipes.";
 $lang["bg"]["clients-texts-box3_h4"] = "SofLab, Bulgaria ┃ Our Partner in R&D Labs distribution channels";
 $lang["bg"]["clients-texts-box3_p1"] = "SofLab Ltd. is a leading company specialized in the field of laboratory equipment – supply of laboratory consumables, equipment and furniture, professional consultations and implementation.";
 $lang["bg"]["clients-texts-box3_p2"] = "Soflab has implemented projects for complete design and furnishing of physical, chemical, and microbiological laboratories for companies like Megle, Tomil Herb Ltd., Milkyex, Nova Trade, The Coca-Cola company, Prista Oil, Limex Ltd, Phytopharma, Faculty of Chemistry, Telish Winery, Carlsberg Bulgaria, Actavis, Holcim, Amylum Bulgaria, Verila Lubricants, Solvex – Cosmetic Products, and others.";
@@ -145,7 +145,7 @@ $lang["bg"]["contact-member5_name"] = "Ивайло Георгиев";
 $lang["bg"]["contact-member5_pos"] = "Industrial Design Lead";
 $lang["bg"]["contact-member5_desc1"] = "3+ years in mechanical engineering, production and industrial design";
 $lang["bg"]["industries-page-title"] = "Индустриални приложения";
-$lang["bg"]["industries-lbl_best"] = "<span style=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'font-family: Arial; font-size: 22px; font-style: normal;\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'>Препоръчваме</span>";
+$lang["bg"]["industries-lbl_best"] = "<span style=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'font-family: Arial; font-size: 22px; font-style: normal;\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'>Препоръчваме</span>";
 $lang["bg"]["industries-lbl_caeli_800"] = "Caeli OUT 800";
 $lang["bg"]["industries-lbl_caeli_1100"] = "Caeli IN 1100";
 $lang["bg"]["industries-lbl_caeli_1500"] = "Caeli IN 1500";
@@ -190,7 +190,6 @@ $lang["bg"]["stand-alone-p1-txt"] = "Въздухът се „засмуква�
 $lang["bg"]["stand-alone-p2-txt"] = "Отпадната (замърсена вода) се източва или ръчно, или посредством канализацията (с връзка между филтъра и канализацията) – индивидуално решение, в зависимост от типа замърсител и инфраструктурните особености на обекта.";
 $lang["bg"]["stand-alone-p3-txt"] = "След турбината е монтиран хепа филтър, за да урегулира струята, в противен случай, струята с чистия въздух ще излиза под напор.";
 $lang["bg"]["stand-alone-p4-txt"] = "Възможност за стационарно, постоянно място/позициониране в пространството, или за преместване (чрез монтиране на колелца).";
-
 $lang["bg"]["spec400hsa-page-title"] = "Технически Спецификации";
 $lang["bg"]["spec400hsa-page-end-title"] = "Вижте и филтрите за вграждане";
 $lang["bg"]["spec400hsa-btn_f800"] = "Caeli 800";
@@ -245,7 +244,6 @@ $lang["bg"]["spec400hsa-f400_prop20_lbl"] = "Издръжливост:";
 $lang["bg"]["spec400hsa-f400_prop20_val"] = "10-15 Години";
 $lang["bg"]["spec400hsa-f400_prop21_lbl"] = "Безопасен (и екологичен):";
 $lang["bg"]["spec400hsa-f400_prop21_val"] = "Да - компактен е, без екологичен риск";
-
 $lang["bg"]["spec600hsa-page-title"] = "Технически Спецификации";
 $lang["bg"]["spec600hsa-page-end-title"] = "Вижте и филтрите за вграждане";
 $lang["bg"]["spec600hsa-btn_f800"] = "Caeli 800";
@@ -276,8 +274,8 @@ $lang["bg"]["spec600hsa-f600_prop9_val"] = "H/D = 450/200 мм";
 $lang["bg"]["spec600hsa-f600_prop10_lbl"] = "Wall thickness:";
 $lang["bg"]["spec600hsa-f600_prop10_val"] = "0.8 мм";
 $lang["bg"]["spec600hsa-f600_prop11_lbl"] = "Тегло на филтъра (празен):";
-$lang["bg"]["spec600hsa-f600_prop11_val"] = "2 кг (пусков режим)";
 $lang["bg"]["spec600hsa-f600_prop11_2_lbl"] = "Тегло на филтъра (пълен):";
+$lang["bg"]["spec600hsa-f600_prop11_val"] = "2 кг (пусков режим)";
 $lang["bg"]["spec600hsa-f600_prop11_2_val"] = "2.2 - 3.5 кг (в зависимост от режима на работа)";
 $lang["bg"]["spec600hsa-f600_prop12_lbl"] = "Шум:";
 $lang["bg"]["spec600hsa-f600_prop12_val"] = "52 - 62 dB (в зависимост от режима на работа)";
@@ -300,7 +298,6 @@ $lang["bg"]["spec600hsa-f600_prop20_lbl"] = "Издръжливост:";
 $lang["bg"]["spec600hsa-f600_prop20_val"] = "10-15 Години";
 $lang["bg"]["spec600hsa-f600_prop21_lbl"] = "Безопасен (и екологичен):";
 $lang["bg"]["spec600hsa-f600_prop21_val"] = "Да - компактен е, без екологичен риск";
-
 $lang["bg"]["specification-page-title"] = "Технически Спецификации";
 $lang["bg"]["specification-page-end-title"] = "Вижте и други размери";
 $lang["bg"]["specification-sa-page-end-title"] = "Вижте и филтрите за вграждане";

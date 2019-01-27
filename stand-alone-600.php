@@ -17,7 +17,7 @@
 			<div class="row">
 				<div class="col-lg-10 col-lg-offset-1">
 					<div class="row">
-						<h3 class="page-title"><?php echo $current_lang['spec600hsa-page-title'] ?></h3>
+						<h3 class="page-title"><?php echo $current_lang['spec600hsa-page-title'] ?>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>EUR 357 | BGN 699</strong></h3>
 						<div id="spec1" class="tab-pane active" style="margin-bottom: 50px;">
 							<div class="container">
 								<div class="row">
@@ -50,8 +50,8 @@
                                                         <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['spec600hsa-f600_prop11_2_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['spec600hsa-f600_prop11_2_val'] ?></span>
                                                     </p>
                                                     <p class="row row-spec">
-                                                        <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['spec600hsa-f600_prop12_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['spec600hsa-sa-f600_prop12_val'] ?></span>
-                                                        <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['spec600hsa-f600_prop13_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['spec600hsa-sa-f600_prop13_val'] ?></span>
+                                                        <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['spec600hsa-f600_prop12_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['spec600hsa-f600_prop12_val'] ?></span>
+                                                        <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['spec600hsa-f600_prop13_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['spec600hsa-f600_prop13_val'] ?></span>
                                                         <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['spec600hsa-f600_prop14_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['spec600hsa-f600_prop14_val'] ?></span>
                                                         <span class="spec-title col-xs-5 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-4"><?php echo $current_lang['spec600hsa-f600_prop15_lbl'] ?></span><span class="spec-value col-xs-6 col-sm-7 col-md-8"><?php echo $current_lang['spec600hsa-f600_prop15_val'] ?></span>
                                                     </p>
@@ -72,7 +72,7 @@
 						</div>
 
                         <div class="ordering-box">
-                            <a class="order-now-button" href="https://www.facebook.com/pg/caeli.engineering/shop/?ref=page_internal" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
+                            <a class="order-now-button" href="<?php echo $fb_shop_link ?>" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
                             <a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
                         </div>
                         <h3 class="page-title"><?php echo $current_lang['spec600hsa-page-end-title'] ?></h3>

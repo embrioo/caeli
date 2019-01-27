@@ -1,4 +1,4 @@
-<?php 
+<?php
     $page_title = 'Tech specifications';
     $class_wrapper = 'specification-page';
     require  'init.php';
@@ -235,7 +235,7 @@
                             </div>
 						</div>
 						<div class="ordering-box">
-							<a class="order-now-button" href="https://www.facebook.com/pg/caeli.engineering/shop/?ref=page_internal" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
+							<a class="order-now-button" href="<?php echo $fb_shop_link ?>" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
 							<a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
           		            <p class="final-text"><?php echo $current_lang['order-now-text-5'] ?>&nbsp;<span><?php echo $current_lang['order-now-text-6'] ?></span></p>
 						</div>

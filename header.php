@@ -43,7 +43,7 @@
                                     </ul>
                                 </div>
                             </li>
-                            <li class="mobilehidden"><a href="https://www.facebook.com/caeli.engineering/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li class="mobilehidden"><a href="<?php echo $fb_home_link ?>" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="mobilehidden"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                         </ul>
                         <div class="navigation-box">

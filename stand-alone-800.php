@@ -1,4 +1,4 @@
-<?php 
+<?php
     $page_title = 'Stand Alone 800';
     $class_wrapper = 'stand-alone800-page';
     require  'init.php';
@@ -72,7 +72,7 @@
 						</div>
 
                         <div class="ordering-box">
-                            <a class="order-now-button" href="https://www.facebook.com/pg/caeli.engineering/shop/?ref=page_internal" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
+                            <a class="order-now-button" href="<?php echo $fb_shop_link ?>" target="_blank"><?php echo $current_lang['order-now-link-text-1'] ?></a>
                             <a class="contact-us-button" href="contact-us.php"><?php echo $current_lang['order-now-link-text-2'] ?></a>
                         </div>
                         <h3 class="page-title"><?php echo $current_lang['specification-sa-page-end-title'] ?></h3>
