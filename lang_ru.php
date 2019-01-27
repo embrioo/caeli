@@ -193,6 +193,7 @@ $lang["ru"]["stand-alone-p3-txt"] = "После того, как в турбин
 $lang["ru"]["stand-alone-p4-txt"] = "Возможность для стационарного, постоянного пространства / размещения в пространстве или для перемещения (путем установки колес).";
 
 $lang["ru"]["spec400hsa-page-title"] = "Технические характеристики";
+$lang["ru"]["spec400hsa-price"] = "USD 499";
 $lang["ru"]["spec400hsa-page-end-title"] = "Также встроенные фильтры";
 $lang["ru"]["spec400hsa-btn_f800"] = "Caeli 800";
 $lang["ru"]["spec400hsa-btn_f1100"] = "Caeli 1100";
@@ -248,6 +249,7 @@ $lang["ru"]["spec400hsa-f400_prop21_lbl"] = "Безопасный (и эколо
 $lang["ru"]["spec400hsa-f400_prop21_val"] = "Да - компактный, без экологического риска";
 
 $lang["ru"]["spec600hsa-page-title"] = "Технические характеристики";
+$lang["ru"]["spec600hsa-price"] = "USD 699";
 $lang["ru"]["spec600hsa-page-end-title"] = "Также встроенные фильтры";
 $lang["ru"]["spec600hsa-btn_f800"] = "Caeli 800";
 $lang["ru"]["spec600hsa-btn_f1100"] = "Caeli 1100";

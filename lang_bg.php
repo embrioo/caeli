@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $lang["bg"]["logo-text"] = "Caeli Engineering";
 $lang["bg"]["logo-text-2"] = "Innovative Technology";
@@ -191,6 +191,7 @@ $lang["bg"]["stand-alone-p2-txt"] = "Отпадната (замърсена во
 $lang["bg"]["stand-alone-p3-txt"] = "След турбината е монтиран хепа филтър, за да урегулира струята, в противен случай, струята с чистия въздух ще излиза под напор.";
 $lang["bg"]["stand-alone-p4-txt"] = "Възможност за стационарно, постоянно място/позициониране в пространството, или за преместване (чрез монтиране на колелца).";
 $lang["bg"]["spec400hsa-page-title"] = "Технически Спецификации";
+$lang["en"]["spec400hsa-price"] = "BGN 499";
 $lang["bg"]["spec400hsa-page-end-title"] = "Вижте и филтрите за вграждане";
 $lang["bg"]["spec400hsa-btn_f800"] = "Caeli 800";
 $lang["bg"]["spec400hsa-btn_f1100"] = "Caeli 1100";
@@ -245,6 +246,7 @@ $lang["bg"]["spec400hsa-f400_prop20_val"] = "10-15 Години";
 $lang["bg"]["spec400hsa-f400_prop21_lbl"] = "Безопасен (и екологичен):";
 $lang["bg"]["spec400hsa-f400_prop21_val"] = "Да - компактен е, без екологичен риск";
 $lang["bg"]["spec600hsa-page-title"] = "Технически Спецификации";
+$lang["bg"]["spec600hsa-price"] = "BGN 699";
 $lang["bg"]["spec600hsa-page-end-title"] = "Вижте и филтрите за вграждане";
 $lang["bg"]["spec600hsa-btn_f800"] = "Caeli 800";
 $lang["bg"]["spec600hsa-btn_f1100"] = "Caeli 1100";

@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $lang["en"]["logo-text"] = "Caeli Engineering";
 $lang["en"]["logo-text-2"] = "Innovative technology";
@@ -191,6 +191,7 @@ $lang["en"]["stand-alone-p2-txt"] = "Contaminated water is drained either manual
 $lang["en"]["stand-alone-p3-txt"] = "Hepa Filter is installed at the outlet to regulate the outlet air jet, otherwise the jet of already clean air will go out  of the filter under high pressure.";
 $lang["en"]["stand-alone-p4-txt"] = "2 options - for stationary, permanent space positioning or for flexibility in moving the filter around the space (by fitting wheels).";
 $lang["en"]["spec400hsa-page-title"] = "Technical Specification";
+$lang["en"]["spec400hsa-price"] = "USD 499";
 $lang["en"]["spec400hsa-page-end-title"] = "Want to check built-in options?";
 $lang["en"]["spec400hsa-btn_f800"] = "Caeli 800";
 $lang["en"]["spec400hsa-btn_f1100"] = "Caeli 1100";
@@ -245,6 +246,7 @@ $lang["en"]["spec400hsa-f400_prop20_val"] = "10-15 Years";
 $lang["en"]["spec400hsa-f400_prop21_lbl"] = "Environment friendly:";
 $lang["en"]["spec400hsa-f400_prop21_val"] = "Yes";
 $lang["en"]["spec600hsa-page-title"] = "Technical Specification";
+$lang["en"]["spec600hsa-price"] = "USD 699";
 $lang["en"]["spec600hsa-page-end-title"] = "Want to check built-in options?";
 $lang["en"]["spec600hsa-btn_f800"] = "Caeli 800";
 $lang["en"]["spec600hsa-btn_f1100"] = "Caeli 1100";

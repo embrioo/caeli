@@ -195,6 +195,7 @@ $lang["gr"]["stand-alone-p3-txt"] = "Μετά την εγκατάσταση το
 $lang["gr"]["stand-alone-p4-txt"] = "Ευκαιρία για σταθερό, μόνιμο χώρο / θέση στο χώρο, ή για μετακίνηση (με τοποθέτηση τροχών).";
 
 $lang["gr"]["spec400hsa-page-title"] = "Τεχνικές προδιαγραφές";
+$lang["gr"]["spec400hsa-price"] = "USD 499";
 $lang["gr"]["spec400hsa-page-end-title"] = "Δείτε επίσης φίλτρα για ενσωμάτωση";
 $lang["gr"]["spec400hsa-btn_f800"] = "Caeli 800";
 $lang["gr"]["spec400hsa-btn_f1100"] = "Caeli 1100";
@@ -250,6 +251,7 @@ $lang["gr"]["spec400hsa-f400_prop21_lbl"] = "Ασφαλές (και φιλικό
 $lang["gr"]["spec400hsa-f400_prop21_val"] = "Ναι - συμπαγής, χωρίς περιβαλλοντικό κίνδυνο";
 
 $lang["gr"]["spec600hsa-page-title"] = "Τεχνικές προδιαγραφές";
+$lang["gr"]["spec600hsa-price"] = "USD 699";
 $lang["gr"]["spec600hsa-page-end-title"] = "Δείτε επίσης φίλτρα για ενσωμάτωση";
 $lang["gr"]["spec600hsa-btn_f800"] = "Caeli 800";
 $lang["gr"]["spec600hsa-btn_f1100"] = "Caeli 1100";

@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $lang["fr"]["logo-text"] = "Ingénierie Caeli";
 $lang["fr"]["logo-text-2"] = "Technologie innovante";
@@ -191,6 +191,7 @@ $lang["fr"]["stand-alone-p2-txt"] = "L´eau contaminée est évacuée manuelleme
 $lang["fr"]["stand-alone-p3-txt"] = "Le filtre Hepa est installé à la sortie pour réguler le jet d’air de sortie, sinon le jet d’air déjà pur sortira du filtre sous haute pression.";
 $lang["fr"]["stand-alone-p4-txt"] = "2 options - pour le positionnement d´espace fixe ou permanent ou pour une flexibilité dans le déplacement du filtre dans l´espace (en ajustant les roues).";
 $lang["fr"]["spec400hsa-page-title"] = "Spécifications techniques";
+$lang["fr"]["spec400hsa-price"] = "USD 499";
 $lang["fr"]["spec400hsa-page-end-title"] = "Voulez-vous vérifier les options intégrées?";
 $lang["fr"]["spec400hsa-btn_f800"] = "Caeli 800";
 $lang["fr"]["spec400hsa-btn_f1100"] = "Caeli 1100";
@@ -245,6 +246,7 @@ $lang["fr"]["spec400hsa-f400_prop20_val"] = "10-15 ans";
 $lang["fr"]["spec400hsa-f400_prop21_lbl"] = "Écologique:";
 $lang["fr"]["spec400hsa-f400_prop21_val"] = "Oui";
 $lang["fr"]["spec600hsa-page-title"] = "Spécifications techniques";
+$lang["fr"]["spec600hsa-price"] = "USD 699";
 $lang["fr"]["spec600hsa-page-end-title"] = "Voulez-vous vérifier les options intégrées?";
 $lang["fr"]["spec600hsa-btn_f800"] = "Caeli 800";
 $lang["fr"]["spec600hsa-btn_f1100"] = "Caeli 1100";
@@ -549,7 +551,7 @@ $lang["fr"]["scrubbers-comp6_flt_desc2"] = "Avec des ajustements mineurs (rapide
 $lang["fr"]["scrubbers-comp7_title"] = "7. entretien";
 $lang["fr"]["scrubbers-comp7_scr_desc1"] = "Consommation de temps et d\\\\\'argent, nettoyage complexe, coûts de main-d\\\\\'œuvre élevés pour la formation du personnel, la surveillance opérationnelle quotidienne et la maintenance de tous les agrégats (les laveurs étant des systèmes complexes nécessitant une maintenance constante).";
 $lang["fr"]["scrubbers-comp7_flt_desc1"] = "Facile et peu coûteux.";
-$lang["fr"]["scrubbers-comp7_flt_desc2"] = "Autonettoyant: entièrement automatisé ou
+$lang["fr"]["scrubbers-comp7_flt_desc2"] = "Autonettoyant: entièrement automatisé ou
 semi-automatisé (dépend du type d\\\\\'usine et des caractéristiques du polluant).";
 $lang["fr"]["scrubbers-comp8_title"] = "8. Consommables";
 $lang["fr"]["scrubbers-comp8_scr_desc1"] = "De nombreux filtres à eau, buses (avg 100 + pièces par installation) qui nécessitent de fréquents changements d\\\\\'éléments.";

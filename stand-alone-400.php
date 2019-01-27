@@ -17,7 +17,7 @@
 			<div class="row">
 				<div class="col-lg-10 col-lg-offset-1">
 					<div class="row">
-						<h3 class="page-title"><?php echo $current_lang['spec400hsa-page-title'] ?>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>EUR 255 | BGN 499</strong></h3>
+						<h3 class="page-title"><?php echo $current_lang['spec400hsa-page-title'] ?>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><?php echo $current_lang['spec400hsa-price'] ?></strong></h3>
 						<div id="spec1" class="tab-pane active" style="margin-bottom: 50px;">
 							<div class="container">
 								<div class="row">
